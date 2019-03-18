@@ -5,13 +5,11 @@ As we live in an increasingly connected world other countries laws become releva
 ## Key concepts/glossary
 These phrases are widely used in country-specific legislation. We have attempted to explain them below.
 
-## The list
+## At a glance
 | Country| Legislation | Content required| Opt-out required| Consent required | Exceptions| Penalties|
 | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | -------------|
 | Canada  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties |
 
-## Details in full
-These phrases are widely used in country-specific legislation. We have attempted to explain them below.
+## Full details
 
-
-Pull requests are welcome. Please keep the list in alphabetical order, where possible. 
+We have split each country into a separate readme file. Links can be found from the at a glance section
