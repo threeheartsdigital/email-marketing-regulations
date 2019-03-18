@@ -1,0 +1,1 @@
+# email-marketing-regulations
