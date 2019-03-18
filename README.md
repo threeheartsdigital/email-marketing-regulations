@@ -18,8 +18,8 @@ A typical example in email marketing is a website registration form, some legisl
 - **_Single opt-in_**: When the opt-in process has one step, so only a registration form is filled out. 
 - **_Double opt-in_**:When the registration has to be confirmed via a link sent to the acquired email address.
 
-###### Implicit consent
-Implicit consent, also known as inferred consent, is usually derived from actions and circumstances, often a previous purchase or enquiry.
+###### Implied consent
+Implied consent, also known as inferred consent, is usually derived from actions and circumstances, often a previous purchase or enquiry.
 
 The best example is during online shopping. Imagine a customer has just bought a games console from your online store, you may assume that the client is interested in games and you may wish to contact them post-purchase with games which would be suitable for that system. If you have not specifically asked to contact this user (via a Checkbox or similar) this is called implied consent. 
 
