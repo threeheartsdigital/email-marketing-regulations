@@ -10,15 +10,15 @@ As we live in an increasingly connected world other countries laws become releva
 
 ## Key concepts/glossary
 
-######Explicit consent
+###### Explicit consent
 Explicit consent gives the individual or business the right to deal with personal data. Consent can be acquired in written or oral form. Generally speaking you will need to keep a record of consent collection.
 
 A typical example in email marketing is a website registration form, some legislation will ask that you provide customers with a check-box to consent to sign up for your newsletter.
 
-- *Single opt-in* When the opt-in process has one step, so only a registration form is filled out. 
-- *Double opt-in* When the registration has to be confirmed via a link sent to the acquired email address.
+- **_Single opt-in_**: When the opt-in process has one step, so only a registration form is filled out. 
+- **_Double opt-in_**:When the registration has to be confirmed via a link sent to the acquired email address.
 
-######Implicit consent
+###### Implicit consent
 Implicit consent, also known as inferred consent, is usually derived from actions and circumstances, often a previous purchase or enquiry.
 
 The best example is during online shopping. Imagine a customer has just bought a games console from your online store, you may assume that the client is interested in games and you may wish to contact them post-purchase with games which would be suitable for that system. If you have not specifically asked to contact this user (via a Checkbox or similar) this is called implied consent. 
