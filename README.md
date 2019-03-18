@@ -8,9 +8,9 @@ These phrases are widely used in country-specific legislation. We have attempted
 ## At a glance
 | Country| Legislation | Content required| Opt-out required| Consent required | Exceptions| Penalties|
 | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | -------------|
-| Canada  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties |
-| USA  | CAN-SPAM | Name, mailing address, contact information| Yes| Consent is not required under CAN-SPAM | Exceptions | Penalties |
+| [Canada](/By country/Canada/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties |
+| USA  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Exceptions | Penalties |
 
 ## Full details
 
-We have split each country into a separate readme file. Links can be found from the at a glance section
+We have split each country into a separate readme file. Links can be found from the at a glance section.
