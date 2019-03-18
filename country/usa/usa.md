@@ -9,7 +9,7 @@ CAN-SPAM, unlike most other pieces of email marketing legislation, works on an o
 
 If sending email without prior consent, check with your email provider first. The majority of email service providers (such as MailChimp or EmailOctopus) require consent to contact your subscribers.
 
-## Notable exceptions
+## Notable exceptions or requirements
 
 
 ## Penalties

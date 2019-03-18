@@ -27,7 +27,7 @@ Express consent is only valid if the following information is included with your
 
 If you are collecting an email address as part of a sign-up or purchase flow, then you cannot use pre-checked checkboxes to get express consent. Consent must be freely given.
 
-## Notable exceptions
+## Notable exceptions or requirements
 
 
 ## Penalties
