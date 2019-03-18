@@ -2,15 +2,29 @@
 
 As we live in an increasingly connected world other countries laws become relevant, even though we may not operate directly in them. Over the past year there have been significant changes to privacy regulations, most notably in Europe with the introduction of the GDPR. This document is created with the aim to keep email marketers informed on changes to regulations across the world so they can stay within the appropriate legislation. 
 
-## Key concepts/glossary
-These phrases are widely used in country-specific legislation. We have attempted to explain them below.
-
 ## At a glance
 | Country| Legislation | Content required| Opt-out required| Consent required | Exceptions| Penalties|
 | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | -------------|
 | [Canada](/country/canada/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties |
 | USA  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Exceptions | Penalties |
 
+## Key concepts/glossary
+
+######Explicit consent
+Explicit consent gives the individual or business the right to deal with personal data. Consent can be acquired in written or oral form. Generally speaking you will need to keep a record of consent collection.
+
+A typical example in email marketing is a website registration form, some legislation will ask that you provide customers with a check-box to consent to sign up for your newsletter.
+
+- *Single opt-in* When the opt-in process has one step, so only a registration form is filled out. 
+- *Double opt-in* When the registration has to be confirmed via a link sent to the acquired email address.
+
+######Implicit consent
+Implicit consent, also known as inferred consent, is usually derived from actions and circumstances, often a previous purchase or enquiry.
+
+The best example is during online shopping. Imagine a customer has just bought a games console from your online store, you may assume that the client is interested in games and you may wish to contact them post-purchase with games which would be suitable for that system. If you have not specifically asked to contact this user (via a Checkbox or similar) this is called implied consent. 
+
+The exact boundaries for both types of consents are defined in the specific country laws.
+
 ## Full details
 
-We have split each country into a separate readme file. Links can be found from the at a glance section.
+We have split each country into a separate readme file to allow additional detail on the consent required and any exceptions. Links can be found by clicking the country name in the "At a glance" section.
