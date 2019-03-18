@@ -6,7 +6,7 @@ As we live in an increasingly connected world other countries laws become releva
 | Country| Legislation | Content required| Opt-out required| Consent required | Exceptions| Penalties|
 | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | -------------|
 | [Canada](/country/canada/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties |
-| USA  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Exceptions | Penalties |
+| [USA](/country/usa/usa.md)  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Exceptions | Penalties |
 
 ## Key concepts/glossary
 
@@ -16,7 +16,7 @@ Explicit consent gives the individual or business the right to deal with persona
 A typical example in email marketing is a website registration form, some legislation will ask that you provide customers with a check-box to consent to sign up for your newsletter.
 
 - **_Single opt-in_**: When the opt-in process has one step, so only a registration form is filled out. 
-- **_Double opt-in_**:When the registration has to be confirmed via a link sent to the acquired email address.
+- **_Double opt-in_**: When the registration has to be confirmed via a link sent to the acquired email address.
 
 ###### Implied consent
 Implied consent, also known as inferred consent, is usually derived from actions and circumstances, often a previous purchase or enquiry.
