@@ -6,9 +6,9 @@ As we live in an increasingly connected world other countries laws become releva
 These phrases are widely used in country-specific legislation. We have attempted to explain them below.
 
 ## The list
-| Country| Legislation | Content required| Opt-out required| Consent required | Exceptions| Penalties
-| ------------- | ------------- | ------------- | ------------- |------------- | -------------
-| Canada  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties 
+| Country| Legislation | Content required| Opt-out required| Consent required | Exceptions| Penalties|
+| ------------- | ------------- | ------------- | ------------- |------------- | ------------- | -------------|
+| Canada  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties |
 
 ## Details in full
 These phrases are widely used in country-specific legislation. We have attempted to explain them below.
