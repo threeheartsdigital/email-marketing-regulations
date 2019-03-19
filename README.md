@@ -1,6 +1,8 @@
 # Email marketing regulations across the World.
 
-As we live in an increasingly connected world other countries laws become relevant, even though we may not operate directly in them. Over the past year there have been significant changes to privacy regulations, most notably in Europe with the introduction of the GDPR. This document is created with the aim to keep email marketers informed on changes to regulations across the world so they can stay within the appropriate legislation. 
+As we live in an increasingly connected world other countries laws become relevant, even though we may not operate directly in them. Over the past year there have been significant changes to privacy regulations, most notably in Europe with the introduction of the GDPR. 
+
+This document has been compiled by [EmailOctopus](https://emailoctopus.com/?utm_source=github), with the aim to keep email marketers informed on changes to regulations across the world so they can stay within the appropriate legislation. 
 
 ## At a glance
 | Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
