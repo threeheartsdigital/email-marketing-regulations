@@ -5,7 +5,8 @@ As we live in an increasingly connected world other countries laws become releva
 ## At a glance
 | Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
 | ------------- | ------------- | ------------- | ------------- |-------------  | -------------|
-| [Australia](/country/canada.md)  | Spam Act 2003 | Name, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Up to $1.8m AUD per day |
+| [Australia](/country/australia.md)  | Spam Act 2003 | Name, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Up to $1.8m AUD per day |
+| [Brazil](/country/brazil.md)  | None at present, LGPD comes in February 2020 | None | No| Consent is not required | No fines |
 | [Canada](/country/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Penalties |
 | [Germany](/country/germany.md)  | Federal Data Protection Act, GDPR, Telemedia Act | Name, mailing address, clear identification of the sender| Yes| Implied consent if you have previous business relationship. Otherwise, explicit. | Up to €20 million, or 4% annual global turnover – whichever is higher. |
 | [United Kingdom](/country/uk.md)  | GDPR, PECR | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to €20 million, or 4% annual global turnover – whichever is higher. |
@@ -32,3 +33,5 @@ The exact boundaries for both types of consents are defined in the specific coun
 ## Full details
 
 We have split each country into a separate readme file to allow additional detail on the consent required and any exceptions. Links can be found by clicking the country name in the "At a glance" section.
+
+None of the above should be taken as legal advice. Always consult a local lawyer for a second opinion before conducting email marketing in local regions.
