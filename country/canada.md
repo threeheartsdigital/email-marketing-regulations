@@ -31,6 +31,11 @@ If you are collecting an email address as part of a sign-up or purchase flow, th
 
 
 ## Penalties
+The penalties under CASL can be quite severe. They include:
+
+- Administrative Monetary Penalties (AMPs) consisting of fines of up to $1million for individuals and up to $10 million for corporations per violation.
+- Vicarious liability. This means that corporate directors can be found to be liable for the wrongful acts of a corporation or organization, and the corporation can be found to be liable for the wrongful acts of its employees.
+- Private rights of action. This means that after July 1, 2017 individuals can sue another individual or organization for damages after proving actual harm or loss after receiving an unsolicited and unwanted CEM. An individual cannot sue an organization if the CRTC has already taken action against it
 
 
 ## Additional reading
