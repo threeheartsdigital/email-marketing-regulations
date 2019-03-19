@@ -17,7 +17,7 @@ Explicit consent gives the individual or business the right to deal with persona
 
 A typical example in email marketing is a website registration form, some legislation will ask that you provide customers with a check-box to consent to sign up for your newsletter.
 
-- **Soft opt-in_**: When you have collected an email address as part of another process ,such as a purchase flow, but have given them a clear chance to opt out both when you first collected their details, and in every message you send. This is most commonly seen as a pre-checked check box during a purchase flow.
+- **_Soft opt-in_**: When you have collected an email address as part of another process ,such as a purchase flow, but have given them a clear chance to opt out both when you first collected their details, and in every message you send. This is most commonly seen as a pre-checked check box during a purchase flow.
 - **_Single opt-in_**: When the opt-in process has one step, so only a registration form is filled out. 
 - **_Double opt-in_**: When the registration has to be confirmed via a link sent to the acquired email address.
 
