@@ -1,4 +1,4 @@
-# UK
+# Germany
 Germany has some of the strictness email marketing laws in the world. The German regulations are defined by the Federal Data Protection Act, GDPR, and the Telemedia Act.
 
 ## Content required
