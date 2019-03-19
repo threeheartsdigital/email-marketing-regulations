@@ -13,6 +13,7 @@ If sending email without prior consent, check with your email provider first. Th
 
 
 ## Penalties
+The CAN-SPAM Act is enforced primarily by the Federal Trade Commission (FTC), which can seek civil penalties of up to $16,000 per violation (with no maximum penalty). The CAN-SPAM Act may also be enforced, in certain circumstances, by various other federal agencies (including the Federal Communications Commission (FCC)), state attorneys general, and Internet Service Providers (ISPs). There is no private right of action.
 
 
 ## Additional reading
