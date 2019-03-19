@@ -6,7 +6,7 @@ As we live in an increasingly connected world other countries laws become releva
 | Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
 | ------------- | ------------- | ------------- | ------------- |-------------  | -------------|
 | [Canada](/country/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Penalties |
-| [Germany](/country/germany.md)  | Federal Data Protection Act, GDPR, Telemedia Act | Name, mailing address, clear identification of the sender| Yes| Explicit consent with double opt-in | Up to €20 million, or 4% annual global turnover – whichever is higher. |
+| [Germany](/country/germany.md)  | Federal Data Protection Act, GDPR, Telemedia Act | Name, mailing address, clear identification of the sender| Yes| Implied consent if you have previous business relationship. Otherwise, explicit. | Up to €20 million, or 4% annual global turnover – whichever is higher. |
 | [United Kingdom](/country/uk.md)  | GDPR, PECR | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to €20 million, or 4% annual global turnover – whichever is higher. |
 | [USA](/country/usa.md)  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Penalties |
 
@@ -17,7 +17,7 @@ Explicit consent gives the individual or business the right to deal with persona
 
 A typical example in email marketing is a website registration form, some legislation will ask that you provide customers with a check-box to consent to sign up for your newsletter.
 
-- **Soft opt-in_**: When you have collected an email address as part of another process ,such as a purchase flow, but have given them a clear chance to opt out both when you first collected their details, and in every message you send. This is most commonly seen as a pre-checked check box during a purchase flow.
+- **_Soft opt-in_**: When you have collected an email address as part of another process ,such as a purchase flow, but have given them a clear chance to opt out both when you first collected their details, and in every message you send. This is most commonly seen as a pre-checked check box during a purchase flow.
 - **_Single opt-in_**: When the opt-in process has one step, so only a registration form is filled out. 
 - **_Double opt-in_**: When the registration has to be confirmed via a link sent to the acquired email address.
 
