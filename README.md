@@ -3,11 +3,11 @@
 As we live in an increasingly connected world other countries laws become relevant, even though we may not operate directly in them. Over the past year there have been significant changes to privacy regulations, most notably in Europe with the introduction of the GDPR. This document is created with the aim to keep email marketers informed on changes to regulations across the world so they can stay within the appropriate legislation. 
 
 ## At a glance
-| Country| Legislation | Content required| Opt-out required| Consent required | Exceptions| Penalties|
-| ------------- | ------------- | ------------- | ------------- |------------- | ------------- | -------------|
-| [Canada](/country/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Exceptions | Penalties |
-| [United Kingdom](/country/uk.md)  | GDPR, PECR | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in| Exceptions | Up to €20 million, or 4% annual global turnover – whichever is higher. |
-| [USA](/country/usa.md)  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Exceptions | Penalties |
+| Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
+| ------------- | ------------- | ------------- | ------------- |-------------  | -------------|
+| [Canada](/country/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have previous business relationship. Otherwise, explicit | Penalties |
+| [United Kingdom](/country/uk.md)  | GDPR, PECR | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to €20 million, or 4% annual global turnover – whichever is higher. |
+| [USA](/country/usa.md)  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Penalties |
 
 ## Key concepts/glossary
 
