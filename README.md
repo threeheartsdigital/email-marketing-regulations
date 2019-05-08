@@ -1,10 +1,10 @@
-# Email Marketing Regulations Around the World
+# Email marketing regulations around the world
 
 As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex. Whether or not you operate directly in different countries, it's good practice as an email marketer to know which laws and regulations apply to your subscribers, wherever they are in the world. In recent years, keeping on top of new legislation has been challenging – most notably in Europe, with the introduction of GDPR (General Data Protection Regulation).
 
 The team at [EmailOctopus](https://emailoctopus.com/?utm_source=github) have compiled this guide to make things easier. Our aim is to create a space where the email marketing community can keep each other up-to-date about regulations around the world, so it's easier for us all to be aware of new legislation, as and when it's implemented.
 
-## At a Glance
+## At a glance
 
 For more detail about a country's legislation, click the country name. This will take you to a new readme file. 
 
@@ -17,7 +17,7 @@ For more detail about a country's legislation, click the country name. This will
 | [United Kingdom](/country/uk.md)  | GDPR, PECR | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to €20m, or 4% annual global turnover – whichever is higher |
 | [USA](/country/usa.md)  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Up to $16,000 per violation |
 
-## Explicit vs Implied Consent and Other Key Terms
+## Explicit vs implied consent and other key terms
 
 #### Explicit consent
 Explicit consent gives the individual or business the right to deal with personal data. Consent can be acquired in writing or verbally. Generally speaking you'll need to keep a record of consent collection.
