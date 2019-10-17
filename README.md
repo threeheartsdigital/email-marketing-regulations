@@ -14,6 +14,7 @@ For more detail about a country's legislation, click the country name. This will
 | [Brazil](/country/brazil.md)  | None at present, LGPD comes in February 2020 | None | No| Consent is not required | None |
 | [Canada](/country/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to $10m CAD per violation |
 | [Germany](/country/germany.md)  | Federal Data Protection Act, GDPR, Telemedia Act | Name, mailing address, clear identification of the sender| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to €20m, or 4% annual global turnover – whichever is higher |
+| [India](/country/india.md)  | None at present | None | No| Consent is not required | None |
 | [United Kingdom](/country/uk.md)  | GDPR, PECR | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to €20m, or 4% annual global turnover – whichever is higher |
 | [USA](/country/usa.md)  | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Up to $16,000 per violation |
 
