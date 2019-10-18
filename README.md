@@ -6,7 +6,7 @@ The team at [EmailOctopus](https://emailoctopus.com/?utm_source=github) have com
 
 ## At a glance
 
-For more detail about a country's legislation, click the country name. This will take you to a new readme file. 
+For more detail about a country's legislation, click the country name.
 
 | Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
 | ------------- | ------------- | ------------- | ------------- |-------------  | -------------|
