@@ -11,7 +11,7 @@ For more detail about a country's legislation, click the country name.
 | Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
 | ------------- | ------------- | ------------- | ------------- |-------------  | -------------|
 | [Australia](/country/australia.md)  | Spam Act 2003 | Name, contact information| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to $1.8m AUD per day |
-| [Brazil](/country/brazil.md)  | None at present, LGPD comes in August 2020 | None | No| Consent is not required | None |
+| [Brazil](/country/brazil.md)  | None at present, LGPD has been postponed to 2021 | None | No| Consent is not required | None |
 | [Canada](/country/canada.md)  | CASL | Name, mailing address, contact information| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to $10m CAD per violation |
 | [China](/country/china.md) | Regulations on Internet Service | Name, email address | Yes | Explicit consent | 10,000-30,000 yuan per email |
 | [Germany](/country/germany.md)  | Federal Data Protection Act, GDPR, Telemedia Act | Name, mailing address, clear identification of the sender| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to €20m, or 4% annual global turnover – whichever is higher |
