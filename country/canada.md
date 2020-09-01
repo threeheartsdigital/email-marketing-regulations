@@ -39,4 +39,4 @@ The penalties under CASL can be quite severe. They include:
 
 ## Additional reading
 - [Frequently Asked Questions about Canada's Anti-Spam Legislation](https://crtc.gc.ca/eng/com500/faq500.htm)
-- [MailChimp's guide to the CASL](https://mailchimp.com/help/about-the-canada-anti-spam-law-casl/)
+- [Mailchimp's guide to the CASL](https://mailchimp.com/help/about-the-canada-anti-spam-law-casl/)

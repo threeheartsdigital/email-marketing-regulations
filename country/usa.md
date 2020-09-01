@@ -7,7 +7,7 @@ All emails must include a valid postal address. The subject line must also be re
 ## Consent
 CAN-SPAM, unlike most other email marketing legislations, works on an opt-out basis. There is no requirement for consent to contact subscribers based in the USA. You must make it clear how to opt-out and honor those requests promptly, within ten business days.
 
-If you are sending emails without prior consent, check with your email provider first. The majority of email service providers (such as MailChimp or EmailOctopus) require consent to contact your subscribers.
+If you are sending emails without prior consent, check with your email provider first. The majority of email service providers (such as Mailchimp or EmailOctopus) require consent to contact your subscribers.
 
 ## Notable exceptions or requirements
 
