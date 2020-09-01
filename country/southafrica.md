@@ -17,5 +17,5 @@ The opt-out requirement under Section 45 of the ECTA does not describe how the o
 Violations of the ECT Act will incur a fine of up to 1 million rand or imprisonment for up to 1 year.
 
 ## Additional reading
-- [Internet Service Providers’ Association – South African Law](https://ispa.org.za/spam/south-african-law/)
+- [Internet Service Providers' Association – South African Law](https://ispa.org.za/spam/south-african-law/)
 - [Direct marketing and spam via electronic communications: An analysis of the regulatory framework in South Africa](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2225-71602014000200004)
