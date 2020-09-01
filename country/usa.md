@@ -2,7 +2,7 @@
 The USA has some of the least stringent email marketing regulations. The USA's applicable legilsation is the 2003 CAN-SPAM  Act (Controlling the Assault of Non-Solicited Pornography and Marketing).
 
 ## Content required
-All emails must include a valid postal address. The subject line must also be reflective of the content. If you do not have prior consent to contact the recipient, it must be made clear that the message is commercial in nature. 
+All emails must include a valid postal address. The subject line must also be reflective of the content. If you do not have prior consent to contact the recipient, it must be made clear that the message is commercial in nature.
 
 ## Consent
 CAN-SPAM, unlike most other email marketing legislations, works on an opt-out basis. There is no requirement for consent to contact subscribers based in the USA. You must make it clear how to opt-out and honor those requests promptly, within ten business days.
