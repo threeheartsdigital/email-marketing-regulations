@@ -1,4 +1,4 @@
-# The United Kingdom
+# United Kingdom
 There are two regulations applicable to email marketing in the UK. The GDPR (General Data Protection Regulation), an EU regulation, governs the data you use for email marketing. The Privacy and Electronic Communications Regulations (PECR) define permissions to send email marketing communications.
 
 ## Content required
