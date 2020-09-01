@@ -13,8 +13,8 @@ You must have consent to contact a subscriber. That consent can be either implie
 Implied consent applies when you have an existing business relationship with the receiver. In short, this is applicable when:
 - They have purchased a product/service from you within the last two years.
 - They have enquired about purchasing a product/service from you within the last six months.
-- You’re a charity or political organisation/candidate and the receiver has sent a donation, or completed charity work, or they have attended a meeting within the past two years.
-- You’re a club/association/voluntary organisation and the person you are contacting is a member.
+- You're a charity or political organisation/candidate and the receiver has sent a donation, or completed charity work, or they have attended a meeting within the past two years.
+- You're a club/association/voluntary organisation and the person you are contacting is a member.
 
 ### Express consent
 Express consent means a written or oral agreement to receive specific types of messages. For example, "You want to receive monthly newsletters and weekly discount notifications from Company B."
@@ -38,9 +38,5 @@ The penalties under CASL can be quite severe. They include:
 - Private rights of action. This means that after July 1 2017 individuals can sue another individual or organization for damages after proving actual harm or loss after receiving an unsolicited and unwanted commercial electronic message (CEM). An individual cannot sue an organization if the Canadian Radio-television and Telecommunications Commission (CRTC) has already taken action against it.
 
 ## Additional reading
-- [Frequently Asked Questions about Canada’s Anti-Spam Legislation](https://crtc.gc.ca/eng/com500/faq500.htm)
-- [MailChimp's guide to the CASL](https://mailchimp.com/help/about-the-canada-anti-spam-law-casl/)
-
-
-
-
+- [Frequently Asked Questions about Canada's Anti-Spam Legislation](https://crtc.gc.ca/eng/com500/faq500.htm)
+- [Mailchimp's guide to the CASL](https://mailchimp.com/help/about-the-canada-anti-spam-law-casl/)

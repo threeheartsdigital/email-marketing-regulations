@@ -1,5 +1,5 @@
 # United Arab Emirates
-The UAE’s Telecommunications Regulatory Authority (TRA) introduced the Regulation on Unsolicited Electronic Communication (RUEC) to address spam regulations and texts.
+The UAE's Telecommunications Regulatory Authority (TRA) introduced the Regulation on Unsolicited Electronic Communication (RUEC) to address spam regulations and texts.
 
 ## Required content
 The UAE requires senders to provide recipients specific circumstances under which their personal data is collected and used, if requested.

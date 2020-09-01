@@ -1,8 +1,8 @@
 # China
-China’s email marketing regulations are set out in the Regulations of Email Services (RES). The regulations are far more restrictive than the USA’s CAN-SPAM Act.
+China's email marketing regulations are set out in the Regulations of Email Services (RES). The regulations are far more restrictive than the USA's CAN-SPAM Act.
 
 ## Required content
-The RES requires email marketers to make sure recipients are aware they are receiving promotional content but putting “AD” in their subject lines. Email content must not violate the Regulations of Telecommunication in the People’s Republic of China. In general, this means that politically sensitive or mature content is prohibited. This includes advertisements for pornography, firearms, gambling, tobacco and illegal drugs. Senders must also ensure they provide contact information to ensure recipients are able to unsubscribe.
+The RES requires email marketers to make sure recipients are aware they are receiving promotional content but putting “AD” in their subject lines. Email content must not violate the Regulations of Telecommunication in the People's Republic of China. In general, this means that politically sensitive or mature content is prohibited. This includes advertisements for pornography, firearms, gambling, tobacco and illegal drugs. Senders must also ensure they provide contact information to ensure recipients are able to unsubscribe.
 
 ## Consent
 The RES requires consent before sending emails can be sent, however the opt-in methods are not specified. It is recommended to follow the same consent measures as stipulated in the CAN-SPAM Act.

@@ -6,18 +6,18 @@ All emails must include contact information and clear identification of sender i
 - The name of the sender and, if applicable, company name
 - The authorised representatives for legal entities
 - The postal address of the sender (a P.O. box is not sufficient)
-- The sender’s telephone number, fax number or an electronic contact form
+- The sender's telephone number, fax number or an electronic contact form
 - The sender's email address
 - Any applicable commercial, cooperative, association, or partnership register numbers
 - The name of the publisher or person legally responsible for the content of the email
-- If available, the sender’s VAT identification number or business identification number
+- If available, the sender's VAT identification number or business identification number
 
 All of this information must be easy to digest, directly accessible (linked directly from the email), and permanently available to your recipients.
 
 There are some strict guidelines applying to subject lines. These should not use typical spam words such as _free_, _offer_, _sex_, or German words like _umsonst_ (free), _kostenlos_ (no charge), _Geld_ (money), or _Glücksspiel_ (prize/competition).
 
 ## Consent
-Both the Federal Data Protection Act and the German Act Against Unfair Competition require that you have the consent of your recipient before sending them marketing emails, unless they are your existing customer. 
+Both the Federal Data Protection Act and the German Act Against Unfair Competition require that you have the consent of your recipient before sending them marketing emails, unless they are your existing customer.
 
 Consent, whether implicit or explicit, should be collected through a double opt-in registration as you must store records of consent.
 
