@@ -1,5 +1,5 @@
 # Brazil
-There is currently no legislation regulating the sending of spam. A legislation called Lei Geral de Proteção de Dados Pessoais (LGPD) was meant to take effect in August 2020. However, due to the Coronavirus pandemic, delays to the effective date have been proposed and enforcement is not expected to begin until August 2021. Email marketers are advised to follow Brazil's Self-Regulation Code for E-mail Marketing Practices.
+There is currently no legislation regulating the sending of spam. A legislation called Lei Geral de Proteção de Dados Pessoais (LGPD) took effect in September, 18, 2020. Due to the Coronavirus pandemic, delays to the effective date postponed the measure several times. Enforcement is not expected to begin until August 2021, when the National Data Protection Authority (ANPD) is expected to be structured - the body will be responsible for regulating the law, preparing instructions for compliance with its rules and monitoring compliance. It is also not known until now what the budget of the ANPD will be - something that must be defined in the General Budget of the Union. Email marketers are advised to follow Brazil's Self-Regulation Code for E-mail Marketing Practices.
 
 ## Content required
 None.
@@ -20,3 +20,4 @@ When LGPD is enforced, non-compliance will result in the following sanctions:
 
 ## Additional reading
 - [Thomson Reuters: Data protection in Brazil](https://uk.practicallaw.thomsonreuters.com/4-520-1732)
+- [De Tilt, UOL]: LGPD entra em vigor sem multa; veja 6 pontos detalhados para ficar de olho [https://www.uol.com.br/tilt/noticias/redacao/2020/09/19/lgpd-entra-em-vigor-sem-ter-fiscalizacao-ativa-ou-multa-entenda-o-que-muda.htm?cmpid=copiaecola]
