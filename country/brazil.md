@@ -20,4 +20,4 @@ When LGPD is enforced, non-compliance will result in the following sanctions:
 
 ## Additional reading
 - [Thomson Reuters: Data protection in Brazil](https://uk.practicallaw.thomsonreuters.com/4-520-1732)
-- [De Tilt, UOL]: LGPD entra em vigor sem multa; veja 6 pontos detalhados para ficar de olho [https://www.uol.com.br/tilt/noticias/redacao/2020/09/19/lgpd-entra-em-vigor-sem-ter-fiscalizacao-ativa-ou-multa-entenda-o-que-muda.htm?cmpid=copiaecola]
+- [LGPD entra em vigor sem multa; veja 6 pontos detalhados para ficar de olho](https://www.uol.com.br/tilt/noticias/redacao/2020/09/19/lgpd-entra-em-vigor-sem-ter-fiscalizacao-ativa-ou-multa-entenda-o-que-muda.htm?cmpid=copiaecola)
