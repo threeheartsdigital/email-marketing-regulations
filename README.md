@@ -11,7 +11,7 @@ For more detail about a country's legislation, click the country name.
 | Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
 | ------------- | ------------- | ------------- | ------------- |-------------  | -------------|
 | [Australia](/country/australia.md) | Spam Act 2003 | Name, contact information| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to $1.8m AUD per day |
-| [Brazil](/country/brazil.md) | None at present, LGPD has been postponed to 2021 | None | No| Consent is not required | None |
+| [Brazil](/country/brazil.md) | LGPD | Name, contact information | Yes | Implicit consent via soft opt-in where an existing commercial or social interest can be demonstrated (effectively legitimate interest) | 2 percent of the revenue from Brazil, up to R$50 million per infraction |
 | [Canada](/country/canada.md) | CASL | Name, mailing address, contact information| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to $10m CAD per violation |
 | [China](/country/china.md) | Regulations on Internet Service | Name, email address | Yes | Explicit consent | 10,000-30,000 yuan per email |
 | [Germany](/country/germany.md) | Federal Data Protection Act, GDPR, Telemedia Act | Name, mailing address, clear identification of the sender| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to €20m, or 4% annual global turnover – whichever is higher |
@@ -20,7 +20,7 @@ For more detail about a country's legislation, click the country name.
 | [Singapore](/country/singapore.md) | Spam Control Act 2007 | Name, email address | Yes | Explicit consent, via a minimum of soft opt-in | $25 SGD per email, up to $1 million |
 | [South Africa](/country/south-africa.md) | Electronic Communications and Transactions Act | Name, email address | Yes | Minimum of implied consent | Fines (no limit) or up to 12 months imprisonment |
 | [United Arab Emirates](/country/uae.md) | Unsolicited Electronic Communications Policy | Name, mailing address | Yes | Implied consent | Fines of up to AED 10 million |
-| [United Kingdom](/country/uk.md) | GDPR, PECR | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to €20m, or 4% annual global turnover – whichever is higher |
+| [United Kingdom](/country/uk.md) | UK GDPR, PECR, DPA 2018 | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to €20m, or 4% annual global turnover – whichever is higher |
 | [USA](/country/usa.md) | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Up to $16,000 per violation |
 
 ## Explicit vs implied consent and other key terms
