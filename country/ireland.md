@@ -18,9 +18,7 @@ As Ireland follows GDPR, it requires that companies have a data security officer
 
 ## Penalties
 
-There are large maximum fines that can be levied as penalties in the event of a breach, however the Information Commissioner's Office (ICO) has repeatedly said that it would not make early examples of organisations for minor infringements of the GDPR, nor would maximum fines become the norm.
-
-The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher.
+The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher. The "Data Protection Commissioner" will be  the supervisory authority here.
 
 In addition to a fine under GDPR, the  Irish government will also impose a fine up to EUR 250,000 per message sent by a company and an individual may be fined up to EUR 50,000 per message
 
