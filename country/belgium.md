@@ -14,13 +14,13 @@ This can be either by having a double opt-in or by checking an explicit checkbox
 
 ## Notable exceptions or requirements
 
-Belgium requires that companies have a data security officer. The person is in charge of maintaining and enforcing data security standards.****
+Belgium requires that companies have a data security officer. The person is in charge of maintaining and enforcing data security standards.
 
 ## Penalties
 
-There are large maximum fines that can be levied as penalties in the event of a breach, however the Information Commissioner's Office (ICO) has repeatedly said that it would not make early examples of organisations for minor infringements of the GDPR, nor would maximum fines become the norm.
+The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher. Though this is the maximum fine and "Data Protection Authority" will govern this.
 
-The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher.
+Also the fine under outre-Quiévrain law will be decided on a case to case basis.
 
 ## Additional reading
 
