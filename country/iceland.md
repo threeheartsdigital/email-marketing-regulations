@@ -18,9 +18,7 @@ As Denmark follows GDPR, it requires that companies have a data security officer
 
 ## Penalties
 
-There are large maximum fines that can be levied as penalties in the event of a breach, however the Information Commissioner's Office (ICO) has repeatedly said that it would not make early examples of organisations for minor infringements of the GDPR, nor would maximum fines become the norm.
-
-The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher.
+The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher. The "Data Protection Authority or Persónuvernd" will be  the supervisory authority here.
 
 ## Additional reading
 
