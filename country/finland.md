@@ -18,9 +18,9 @@ As Finland follows GDPR, it requires that companies have a data security officer
 
 ## Penalties
 
-There are large maximum fines that can be levied as penalties in the event of a breach, however the Information Commissioner's Office (ICO) has repeatedly said that it would not make early examples of organisations for minor infringements of the GDPR, nor would maximum fines become the norm.
+The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher. "The Office of the Data Protection Ombudsman" will be the body that will safeguard rights and freedoms when processing personal data.
 
-The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher.
+There might also be seperate penalty and punishment Act on Electronic Communication Services, which will be imposed on a case-to-case basis.
 
 ## Additional reading
 
