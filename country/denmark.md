@@ -1,6 +1,6 @@
 # Denmark
 
-Denmark has 2 laws that govern email marketing and other forms of electronic marketing. These are the Denmark Marketing Act and EU GDPR. Both laws combined cover all aspects of electronic marketing in Denmark.
+Denmark has 2 laws that govern email marketing and other forms of electronic marketing. These are the Denmark Marketing Practices Act and EU GDPR. Both laws combined cover all aspects of electronic marketing in Denmark.
 
 ## Content required
 
@@ -18,9 +18,7 @@ As Denmark follows GDPR, it requires that companies have a data security officer
 
 ## Penalties
 
-There are large maximum fines that can be levied as penalties in the event of a breach, however the Information Commissioner's Office (ICO) has repeatedly said that it would not make early examples of organisations for minor infringements of the GDPR, nor would maximum fines become the norm.
-
-The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher.
+The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher. "The Danish Data Protection Agency" created under the implementation of EU Directive 95/46/EC will be the governing body here.
 
 In addition to a fine under GDPR, the Danish government will impose an additional fine, which is to be decided by the governing body.
 
