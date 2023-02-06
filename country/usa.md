@@ -10,6 +10,7 @@ CAN-SPAM, unlike most other email marketing legislations, works on an opt-out ba
 If you are sending emails without prior consent, check with your email provider first. The majority of email service providers (such as Mailchimp or EmailOctopus) require consent to contact your subscribers.
 
 ## Notable exceptions or requirements
+Legislation may vary on a state by state basis, with the applicable state dependent on where your subscribers are residents. One example is in California where the CCPA is enforced.
 
 
 ## Penalties
