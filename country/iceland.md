@@ -14,7 +14,7 @@ This can be either by having a double opt-in or by checking an explicit checkbox
 
 ## Notable exceptions or requirements
 
-As Denmark follows GDPR, it requires that companies have a data security officer. The person is in charge of maintaining and enforcing data security standards.
+As Iceland follows GDPR, it requires that companies have a data security officer. The person is in charge of maintaining and enforcing data security standards.
 
 ## Penalties
 
