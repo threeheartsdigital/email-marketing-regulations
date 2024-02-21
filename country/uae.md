@@ -11,7 +11,7 @@ The RUEC requires a minimum of implicit consent.
 The RUEC requires senders to keep records of how the personal data is collected, processed and used.
 
 ## Penalties
-The TRA can impose penalties of up to AED 10 million for violating RUEC regulations.
+The TRA can impose penalties of up to 10 million AED for violating RUEC regulations.
 
 ## Additional reading
 - [Regulatory Policy: Unsolicited Electronic Communications](https://docplayer.net/17342879-Regulatory-policy-unsolicited-electronic-communications.html)
