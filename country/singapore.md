@@ -1,5 +1,5 @@
 # Singapore
-Email marketing in Singapore is regulated by two main laws; the Personal Data Protection Act (PDPA) and the Spam Control Act. The PDPA governs the collection, use and disclosure of personal data by organizations. The Spam Control Act aims to control unsolicited commercial communications sent electronically.
+Email marketing in Singapore is regulated by two main laws; the Personal Data Protection Act (PDPA) and the Spam Control Act 2007. The PDPA governs the collection, use and disclosure of personal data by organizations. The Spam Control Act aims to control unsolicited commercial communications sent electronically.
 
 ## Required content
 Singapore has strict guidance for email content. All marketing email campaigns are required to be truthful (not deceitful) and comply with the principles of fair competition. Furthermore, content must align with Singapore's family values. The Spam Control Act requires senders to:
