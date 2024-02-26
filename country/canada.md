@@ -1,5 +1,5 @@
 # Canada
-The Canadian Anti-Spam Law regulates email marketing in Canada, and has been in effect since July 1 2014.  Wherever you are in the world, if you send email marketing messages to Canadian residents, you will need to comply with CASL.
+The Canadian Anti-Spam Law (CASL) regulates email marketing in Canada, and has been in effect since July 1 2014.  Wherever you are in the world, if you send email marketing messages to Canadian residents, you will need to comply with CASL.
 
 ## Content required
 All emails sent to Canadian recipients must contain the following:
@@ -33,7 +33,7 @@ If you are collecting an email address as part of a sign-up or purchase flow, th
 ## Penalties
 The penalties under CASL can be quite severe. They include:
 
-- Administrative Monetary Penalties (AMPs) consisting of fines of up to $1 million for individuals and up to $10 million for corporations per violation.
+- Administrative Monetary Penalties (AMPs) consisting of fines of up to 1 million CAD for individuals and up to 10 million CAD for corporations per violation.
 - Vicarious liability. This means that corporate directors can be found to be liable for the wrongful acts of a corporation or organization, and the corporation can be found to be liable for the wrongful acts of its employees.
 - Private rights of action. This means that after July 1 2017 individuals can sue another individual or organization for damages after proving actual harm or loss after receiving an unsolicited and unwanted commercial electronic message (CEM). An individual cannot sue an organization if the Canadian Radio-television and Telecommunications Commission (CRTC) has already taken action against it.
 

@@ -17,5 +17,5 @@ N/A
 
 
 ## Additional reading
-- [Draft Personal Data Protection Bill, 2018](https://www.meity.gov.in/writereaddata/files/Personal_Data_Protection_Bill,2018.pdf) 
+- [Draft Personal Data Protection Bill, 2018](https://www.meity.gov.in/writereaddata/files/Personal_Data_Protection_Bill,2018.pdf)
 - [India's Personal Data Protection Bill: What We Know so Far](https://www.endpointprotector.com/blog/indias-personal-data-protection-bill-what-we-know-so-far/)

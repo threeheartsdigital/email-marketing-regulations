@@ -14,7 +14,7 @@ The PPI Act prohibits sending emails without first obtaining consent from the su
 The opt-out requirement under Section 45 of the ECTA does not describe how the opt-out option must be made available.
 
 ## Penalties
-Violations of the ECT Act will incur a fine of up to 1 million rand or imprisonment for up to 1 year.
+Violations of the ECT Act will incur a fine of up to 1 million ZAR or imprisonment for up to 1 year.
 
 ## Additional reading
 - [Internet Service Providers' Association – South African Law](https://ispa.org.za/spam/south-african-law/)

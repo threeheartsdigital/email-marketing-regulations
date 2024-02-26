@@ -16,7 +16,7 @@ You cannot use harvested or scraped lists in Australia. Under the spam legislati
 Some organisations are exempt from the legislation. These include registered charities, educational institutions (only when sent to current or former students), government bodies and registered political parties. These messages must relate to goods or services offered by the exempt organisation.
 
 ## Penalties
-According to the ACMA, “the penalty units referred to in the Spam Act are currently equal to $180 each. For example, the penalty under section 25(5)(b) of the Spam Act for a company with a previous record of spamming and who sent two or more spam messages on a given day without consent is a maximum fine of 10,000 penalty units. This equates to a maximum penalty of $1,800,000 per day.”
+According to the ACMA, "the penalty units referred to in the Spam Act are currently equal to $180 each. For example, the penalty under section 25(5)(b) of the Spam Act for a company with a previous record of spamming and who sent two or more spam messages on a given day without consent is a maximum fine of 10,000 penalty units. This equates to a maximum penalty of 1,800,000 AUD per day.
 
 ## Additional reading
 - [ACMA: Spam industry obligations](https://www.acma.gov.au/theACMA/spam-industry-obligations)
