@@ -25,7 +25,7 @@ For more detail about a country's legislation, click the country name.
 | [Singapore](/country/singapore.md) | PDPA, Spam Control Act 2007 | Name, email address | Yes | Explicit consent, via a minimum of soft opt-in | 25 SGD per email, up to 1 million SGD |
 | [South Africa](/country/south-africa.md) | ECTA, CPA, PPIA | Name, email address | Yes | Minimum of implied consent | Fines (no limit) or up to 12 months imprisonment |
 | [United Arab Emirates](/country/uae.md) | RUEC | Name, mailing address | Yes | Implied consent | Fines of up to 10 million AED |
-| [United Kingdom](/country/uk.md) | UK GDPR, PECR, DPA 2018 | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to 20 million EUR, or 4% annual global turnover – whichever is higher |
+| [United Kingdom](/country/uk.md) | UK GDPR, PECR, DPA 2018 | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to £17.5 million, or 4% annual global turnover – whichever is higher |
 | [USA](/country/usa.md) | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Up to $51,744 per violation |
 
 ## Explicit vs implied consent and other key terms
