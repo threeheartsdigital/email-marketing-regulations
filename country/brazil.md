@@ -1,8 +1,8 @@
 # Brazil
-A legislation called Lei Geral de Proteção de Dados Pessoais (LGPD) took effect in September, 2020. Due to the Coronavirus pandemic, delays to the effective date postponed the measure several times. Penalties became enforceable on August 1, 2021, and data subjects and public authorities could enforce their rights starting on September 18, 2020. The LGPD is made up of 65 articles. Articles 17-22 deal with the rights of data subjects, those whose data is collected and/or processed, so mainly individuals or natural persons. It has 10 legal bases for the processing of personal data, four more than the GDPR.
+A legislation called Lei Geral de Proteção de Dados Pessoais (LGPD) took effect in September 2020, with penalties becoming enforceable from August 2021. The LGPD is made up of 65 articles. Articles 17-22 deal with the rights of data subjects, those whose data is collected and/or processed, so mainly individuals or natural persons. It has 10 legal bases for the processing of personal data, four more than the GDPR.
 
 ## Content required
-All emails should include name and contact information. Emails should also include a clear unsubscribe/opt-out option. There's no clear mention of time period defined to unsubcribe the email.
+All emails should include name and contact information. Emails should also include a clear unsubscribe/opt-out option. There's no clear mention of the time period necessary to process an unsubcribe.
 
 ## Consent
 The sending of unsolicited communications must be done based on one of the two legal grounds for processing: consent, and controller's legitimate interest.
@@ -21,6 +21,6 @@ According to LGPD, non-compliance will result in the following sanctions:
 - Daily fine, subject to the total maximum referred above.
 
 ## Additional reading
-- [Brazil’s General Data Protection Law](https://usercentrics.com/knowledge-hub/brazil-lgpd-general-data-protection-law-overview/)
+- [Brazil's General Data Protection Law](https://usercentrics.com/knowledge-hub/brazil-lgpd-general-data-protection-law-overview/)
 - [Thomson Reuters: Data protection in Brazil](https://uk.practicallaw.thomsonreuters.com/4-520-1732)
 - [LGPD entra em vigor sem multa; veja 6 pontos detalhados para ficar de olho](https://www.uol.com.br/tilt/noticias/redacao/2020/09/19/lgpd-entra-em-vigor-sem-ter-fiscalizacao-ativa-ou-multa-entenda-o-que-muda.htm?cmpid=copiaecola)

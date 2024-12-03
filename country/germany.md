@@ -1,5 +1,5 @@
 # Germany
-Germany has some of the strictness email marketing laws in the world. The German regulations are defined by the Federal Data Protection Act, the GDPR, and the Telemedia Act.
+Germany has some of the strictest email marketing laws in the world. The German regulations are defined by the Federal Data Protection Act, the GDPR, and the Telemedia Act.
 
 ## Content required
 All emails must include contact information and clear identification of sender in the form of a legal notice. This legal notice can be linked to but must contain the following information:
@@ -25,9 +25,7 @@ Consent, whether implicit or explicit, should be collected through a double opt-
 Germany requires that companies have a data security officer. The person is in charge of maintaining and enforcing data security standards.
 
 ## Penalties
-There are large maximum fines that can be levied as penalties in the event of a breach, however the Information Commissioner's Office (ICO) has repeatedly said that it would not make early examples of organisations for minor infringements of the GDPR, nor would maximum fines become the norm.
-
-The maximum fine available under the GDPR is up to €20 million, or 4% annual global turnover – whichever is higher.
+The maximum fine available under the GDPR is up to 20 million EUR, or 4% annual global turnover – whichever is higher.
 
 ## Additional reading
 - [Orrick: Guidance on direct marketing issued by the German data protection authority](https://blogs.orrick.com/trustanchor/2018/12/07/guidance-on-direct-marketing-issued-by-the-german-data-protection-supervisory-authorities/)
