@@ -10,7 +10,7 @@ You can only send marketing emails to those who have provided explicit consent t
 The recipient can also be sent marketing emails if they shared their contact info, when purchasing a service or product, or when negotiating such purchase (specified for general advertising, which includes marketing emails)
 
 ## Penalties
-The fine that would be imposed would depend on the severity of breach of the law and could go up to 202,000 NIS in a criminal court. Recipients of spam email may also seek damages which in a civil court could be as much as ILS 1,000 for each message sent by the advertiser to the recipient.
+The fine that would be imposed would depend on the severity of breach of the law and could be up to 202,000 ILS in a criminal court. Recipients of spam email may also seek damages which in a civil court could be as much as ILS 1,000 for each message sent by the advertiser to the recipient.
 
 ## Additional reading
-- [FAQ on Spam email from the Ministry of Communications](https://www.gov.il/en/departments/faq/17052018_7)
+- [FAQ on Spam email from the Ministry of Communications](https://www.gov.il/en/pages/17052018_7)
