@@ -15,7 +15,7 @@ Unsubscribe requests must be processed within 28 days.
 The soft opt-in rule means you may be able to email your own customers, but it does not apply to prospective customers or new contacts (e.g. from bought-in lists). It also does not apply to non-commercial promotions (e.g. charity fundraising or political campaigning).
 
 ## Penalties
-The maximum fine available under the GDPR is up to £20 million, or 4% annual global turnover – whichever is higher.
+The maximum fine available under the GDPR is up to 17.5 million GBP, or 4% annual global turnover – whichever is higher.
 
 ## Additional reading
 - [Guide to the UK General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
