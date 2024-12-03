@@ -13,7 +13,7 @@ Email is also allowed if the recipient has not specifically opted out and if you
 As Finland follows the GDPR, it requires that your company must have a data protection officer. The person is in charge of maintaining and enforcing data security standards.
 
 ## Penalties
-The maximum fine available under the GDPR is up to 20 million EUR, or 4% annual global turnover – whichever is higher. "The Office of the Data Protection Ombudsman" is the body that will safeguard rights and freedoms when processing personal data.
+The maximum fine available under the GDPR is up to 20 million EUR, or 4% annual global turnover – whichever is higher. The Office of the Data Protection Ombudsman is the body that will safeguard rights and freedoms when processing personal data.
 
 There might also be seperate penalty and punishment based on the Act on Electronic Communication Services, this is imposed on a case-to-case basis.
 
