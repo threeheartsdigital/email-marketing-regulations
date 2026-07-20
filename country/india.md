@@ -15,7 +15,7 @@ Under the Information Technology Act 2000, Section 67 there is a restriction on 
 The DPDP Act requires verifiable parental consent before processing the personal data of children under 18.
 
 ## Penalties
-None enforceable until 14 May 2027. From that date, the Data Protection Board can impose penalties per instance of up to 250 crore INR (2.5 billion INR) for failing to take reasonable security safeguards, up to 200 crore INR for failing to notify a breach or for breaching children's data obligations, and up to 50 crore INR for other violations.
+None enforceable until 14 May 2027. From that date, the Data Protection Board can impose penalties per instance of up to 250 crore INR (2.5 billion INR) for failing to take reasonable security safeguards, up to 200 crore INR for failing to notify a breach or for breaching children's data obligations, up to 150 crore INR for breaching Significant Data Fiduciary obligations, and up to 50 crore INR for other violations.
 
 ## Additional reading
 - [MeitY: notification of the Digital Personal Data Protection Rules, 2025](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf)

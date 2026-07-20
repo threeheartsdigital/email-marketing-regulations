@@ -14,7 +14,7 @@ Section 69 of POPIA prohibits sending marketing emails without first obtaining c
 From 2026, the CPA Amendment Regulations create a national Opt-Out Registry administered by the National Consumer Commission. All direct marketers must register with the NCC and screen their databases against the registry at least monthly – marketing to consumers who have registered a block is prohibited. Consumer and marketer registration opened in July 2026.
 
 ## Penalties
-POPIA carries administrative fines of up to 10 million ZAR, and serious offences can attract up to 10 years' imprisonment. The Information Regulator has begun enforcing against email marketers – its first direct marketing infringement notice (2024) carried a 100,000 ZAR fine. Violations of the ECT Act incur a fine of up to 1 million ZAR or imprisonment, and CPA contraventions can be fined up to the greater of 1 million ZAR or 10% of annual turnover.
+POPIA carries administrative fines of up to 10 million ZAR, and serious offences can attract up to 10 years' imprisonment. The Information Regulator has begun enforcing against email marketers – it issued its first direct marketing enforcement notice in February 2024, followed by a 100,000 ZAR infringement notice when the company failed to comply. Violations of the ECT Act incur a fine (no amount is specified in the Act) or imprisonment for up to 12 months, and CPA contraventions can be fined up to the greater of 1 million ZAR or 10% of annual turnover.
 
 ## Additional reading
 - [Information Regulator: Guidance Notes](https://inforegulator.org.za/guidance-notes/)
