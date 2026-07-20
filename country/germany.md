@@ -6,22 +6,18 @@ All emails must include contact information and clear identification of sender i
 - The name of the sender and, if applicable, company name
 - The authorised representatives for legal entities
 - The postal address of the sender (a P.O. box is not sufficient)
-- The sender's telephone number, fax number or an electronic contact form
-- The sender's email address
+- Details enabling rapid electronic contact, including the sender's email address (a contact form can suffice in place of a phone number)
 - Any applicable commercial, cooperative, association, or partnership register numbers
-- The name of the publisher or person legally responsible for the content of the email
 - If available, the sender's VAT identification number or business identification number
 
-All of this information must be easy to digest, directly accessible (linked directly from the email), and permanently available to your recipients. The commercial nature of the message and its sender must not be concealed.
-
-There are some strict guidelines applying to subject lines. These should not use typical spam words such as _free_, _offer_, _sex_, or German words like _umsonst_ (free), _kostenlos_ (no charge), _Geld_ (money), or _Glücksspiel_ (prize/competition).
+All of this information must be easy to recognise, directly accessible (linked directly from the email), and permanently available to your recipients. The commercial nature of the message and its sender must not be concealed – there is no legal list of banned subject line words, despite what some deliverability guides suggest.
 
 ## Consent
-Both the GDPR and the Act Against Unfair Competition require that you have the consent of your recipient before sending them marketing emails, unless they are your existing customer (the soft opt-in under Section 7(3) UWG, which covers your own similar products or services, with an opt-out offered at collection and in every message).
+Both the GDPR and the Act Against Unfair Competition require that you have the consent of your recipient before sending them marketing emails, unless they are your existing customer (the soft opt-in under Section 7(3) UWG, which requires the address to have been obtained in connection with a sale, covers your own similar products or services only, and needs an opt-out offered at collection and in every message).
 
 Consent should be collected through a double opt-in registration as you must store records of consent.
 
-In November 2025, the European Court of Justice confirmed that the existing-customer soft opt-in can also apply where the email address was obtained when signing up for a free service that starts a customer relationship.
+In November 2025, the European Court of Justice confirmed that the soft opt-in can also apply where the email address was obtained when signing up for a free account, provided the free account primarily serves as a step towards the provider's paid services.
 
 ## Notable exceptions or requirements
 As Germany follows GDPR, some companies (for example, those processing personal data on a large scale) must appoint a data protection officer, who is in charge of maintaining and enforcing data protection standards.

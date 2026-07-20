@@ -2,7 +2,7 @@
 South Africa has multiple regulations that relate to email marketing and spam. The Electronic Communications and Transactions Act (ECTA) 2002 was the first law to address unsolicited communication and opt-out requirements. Further regulations are stipulated in the Consumer Protection Act (CPA) 2008, and the Protection of Personal Information Act (POPIA) 2013. The Information Regulator published a Guidance Note on Direct Marketing in December 2024, confirming that consent is the default for email marketing.
 
 ## Required content
-Section 45 of the Electronic Communications and Transactions Act requires all email campaigns to provide an opt-out or unsubscribe option to email recipients. There also needs to be a provision for recipients to request the source of how the sender obtained their personal contact details. The sender must be clearly identified in every message.
+Section 45 of the Electronic Communications and Transactions Act requires all email campaigns to provide an opt-out or unsubscribe option to email recipients. There also needs to be a provision for recipients to request the source of how the sender obtained their personal contact details. POPIA separately requires the sender's identity and a contact address to be included in every marketing communication.
 
 ## Consent
 Section 69 of POPIA prohibits sending marketing emails without first obtaining consent from the subscriber, with a soft opt-in exception for existing customers:
@@ -11,7 +11,7 @@ Section 69 of POPIA prohibits sending marketing emails without first obtaining c
 - Otherwise, you may approach a person only once to ask for their consent, and that first message may only be a consent request, not a marketing pitch.
 
 ## Notable exceptions or requirements
-From 2026, the CPA Amendment Regulations create a national Opt-Out Registry administered by the National Consumer Commission. All direct marketers must register with the NCC and screen their databases against the registry at least monthly – marketing to consumers who have registered a block is prohibited. Consumer and marketer registration opened in July 2026.
+From 2026, the CPA Amendment Regulations create a national Opt-Out Registry administered by the National Consumer Commission. All direct marketers must register with the NCC and screen their databases against the registry at least monthly – marketing to consumers who have registered a block is prohibited. Consumer and marketer registration was scheduled to open in July 2026, with the registry expected to be fully operational later in the year.
 
 ## Penalties
 POPIA carries administrative fines of up to 10 million ZAR, and serious offences can attract up to 10 years' imprisonment. The Information Regulator has begun enforcing against email marketers – it issued its first direct marketing enforcement notice in February 2024, followed by a 100,000 ZAR infringement notice when the company failed to comply. Violations of the ECT Act incur a fine (no amount is specified in the Act) or imprisonment for up to 12 months, and CPA contraventions can be fined up to the greater of 1 million ZAR or 10% of annual turnover.

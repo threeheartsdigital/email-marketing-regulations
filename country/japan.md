@@ -1,5 +1,5 @@
 # Japan
-In Japan, unsolicited email communications are regulated by the Act on Specified Commercial Transactions (ASCT) and the Act on the Regulation of Transmission of Specified Electronic Mail (Anti-Spam Act). The Act on the Protection of Personal Information (APPI) also applies to the handling of subscriber data – an amendment passed in June 2026 will give the regulator the power to impose administrative fines for serious violations, expected to take effect by 2028.
+In Japan, unsolicited email communications are regulated by the Act on Specified Commercial Transactions (ASCT) and the Act on the Regulation of Transmission of Specified Electronic Mail (Anti-Spam Act). The Act on the Protection of Personal Information (APPI) also applies to the handling of subscriber data – an amendment passed in July 2026 will give the regulator the power to impose administrative fines for certain categories of violation, such as improper acquisition or unlawful third-party provision of personal data, expected to take effect by 2028.
 
 ## Required content
 Emails must include the sender's name and identity, along with the sender's email address or website to facilitate the opt-out option.

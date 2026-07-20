@@ -10,7 +10,7 @@ None mandated for the email itself at present. Once the DPDP Act's obligations t
 Not yet enforced. From 14 May 2027, consent must be free, specific, informed, unconditional and unambiguous, given with a clear affirmative action and limited to the specified purpose. Withdrawing consent must be as easy as giving it – effectively an opt-out requirement for consent-based email marketing.
 
 ## Notable exceptions or requirements
-Under the Information Technology Act 2000, Section 67 there is a restriction on publishing 'obscene' content in electronic form. Compensation may also be due under the same act if data is held insecurely and stolen.
+Under the Information Technology Act 2000, Section 67 there is a restriction on publishing 'obscene' content in electronic form. Compensation may also be due under the same act if data is held insecurely and stolen – though that provision is repealed on 14 May 2027, when the DPDP Act takes over.
 
 The DPDP Act requires verifiable parental consent before processing the personal data of children under 18.
 

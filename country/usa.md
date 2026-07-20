@@ -13,7 +13,7 @@ If you are sending emails without prior consent, check with your email provider 
 Legislation may vary on a state by state basis, with the applicable state dependent on where your subscribers are residents. Around 20 states now have comprehensive consumer privacy laws in force (California's CCPA was the first; Indiana, Kentucky and Rhode Island took effect in January 2026). These don't override CAN-SPAM's email rules, but they do add obligations around the underlying personal data, such as opt-out and consent requirements.
 
 ## Penalties
-The CAN-SPAM Act is enforced primarily by the Federal Trade Commission (FTC), which can seek civil penalties of up to 53,088 USD per violation (with no maximum penalty). This figure is adjusted for inflation and has applied since January 2025 – there was no 2026 adjustment. In certain circumstances the CAN-SPAM Act may also be enforced by other federal agencies including the Federal Communications Commission (FCC), state attorneys general, and Internet Service Providers (ISPs). There is no private right of action.
+The CAN-SPAM Act is enforced primarily by the Federal Trade Commission (FTC), which can seek civil penalties of up to 53,088 USD per violation (with no maximum penalty). This figure is adjusted for inflation and has applied since January 2025 – there was no 2026 adjustment. In certain circumstances the CAN-SPAM Act may also be enforced by other federal regulators (such as the Federal Communications Commission) for the entities they oversee, by state attorneys general, and through civil actions brought by Internet access service providers. There is no private right of action for individual recipients.
 
 
 ## Additional reading

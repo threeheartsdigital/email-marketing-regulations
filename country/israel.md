@@ -1,5 +1,5 @@
 # Israel
-Israel's government uses Section 30A of the Communications Broadcasting Law to regulate the sending of unsolicited commercial emails. The amendment was introduced in December 2008 and dictates that an advertiser may not send an advertisement by fax, automatic dialing system, electronic message (email) or SMS, without obtaining the recipient's explicit consent in advance and in writing.
+Israel's government uses Section 30A of the Communications Law (Telecommunications and Broadcasting), 1982 to regulate the sending of unsolicited commercial emails. The spam amendment took effect on 1 December 2008 and dictates that an advertiser may not send an advertisement by fax, automatic dialing system, electronic message (email) or SMS, without obtaining the recipient's explicit consent in advance and in writing. Written consent includes an electronic message, so an online checkbox qualifies.
 
 Separately, Amendment 13 to the Privacy Protection Law came into force on 14 August 2025 – the biggest change to Israeli privacy law in decades. It gives the Privacy Protection Authority the power to impose administrative fines directly, narrows database registration to high-risk databases (such as data brokers), and requires a privacy protection officer for providers of direct mailing services processing data on more than 10,000 people.
 
@@ -9,7 +9,7 @@ The law sets out that those who want to send an advertising email must clearly h
 ## Consent
 You can only send marketing emails to those who have provided explicit consent to receive marketing emails from you.
 
-The recipient can also be sent marketing emails if they shared their contact info, when purchasing a service or product, or when negotiating such purchase (specified for general advertising, which includes marketing emails)
+There is a narrow existing-customer exception: you may email someone whose details you obtained during a purchase (or purchase negotiations) only if you told them at the time that their details would be used for advertising, gave them a simple, free chance to refuse, and your advert relates to a similar type of product or service.
 
 ## Penalties
 The fine that would be imposed would depend on the severity of breach of the law and could be up to 226,000 ILS in a criminal court, with corporate officers presumed liable for supervision failures. Recipients of spam email may also seek damages which in a civil court could be as much as 1,000 ILS for each message sent by the advertiser to the recipient.

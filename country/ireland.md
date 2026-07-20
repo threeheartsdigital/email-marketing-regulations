@@ -2,14 +2,18 @@
 Ireland has two layers of law governing email marketing: the EU GDPR together with the Irish Data Protection Act 2018, and the ePrivacy Regulations (S.I. No. 336/2011), which set the specific rules for unsolicited marketing by email. Both are enforced by the Data Protection Commission (DPC).
 
 ## Content required
-All emails sent for marketing purposes should clearly identify the sender, including the sender's name and mailing address. The law treats these as compulsory information for your marketing emails.
+Marketing emails must not disguise or conceal the sender's identity, and must include a valid address the recipient can use to ask for the messages to stop.
 
 ## Consent
-You can only send marketing emails to those who have provided explicit consent to receive marketing emails from you.
+You can only send marketing emails to individuals who have consented to receive them, unless the soft opt-in described below applies.
 
-This can be either by having a double opt-in or by checking an explicit checkbox while subscribing with your privacy policy link mentioned there. The burden of proving consent lies with the sender.
+Consent can be collected either by having a double opt-in or by checking an explicit checkbox while subscribing with your privacy policy link mentioned there. The burden of proving consent lies with the sender.
 
 ## Notable exceptions or requirements
+Ireland has a soft opt-in with an unusual time limit: you may email an existing customer where their details were obtained in the context of a sale, you are marketing your own similar products or services, and a free, easy opt-out was offered at collection and in every message – but only if the sale (or the last marketing email you sent them) was within the previous 12 months.
+
+Business email addresses are treated differently: an address that reasonably appears to be used mainly in the context of someone's commercial or official activity can be emailed on an opt-out basis, as long as the message relates solely to that activity.
+
 As Ireland follows GDPR, some companies (for example, those processing personal data on a large scale) must appoint a data protection officer, who is in charge of maintaining and enforcing data protection standards.
 
 ## Penalties
