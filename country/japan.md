@@ -1,18 +1,18 @@
 # Japan
-In Japan, unsolicited email communications are regulated by the Act on Specified Commercial Transactions (ASCT) and the Act on the Regulation of Transmission of Specified Electronic Mail (Anti-Spam Act).
+In Japan, unsolicited email communications are regulated by the Act on Specified Commercial Transactions (ASCT) and the Act on the Regulation of Transmission of Specified Electronic Mail (Anti-Spam Act). The Act on the Protection of Personal Information (APPI) also applies to the handling of subscriber data – an amendment passed in June 2026 will give the regulator the power to impose administrative fines for serious violations, expected to take effect by 2028.
 
 ## Required content
-Emails are required to include the sender's email address or website to facilitate the opt-out option.
+Emails must include the sender's name and identity, along with the sender's email address or website to facilitate the opt-out option.
 
 ## Consent
-The ASCT requires email marketers to obtain consent from recipients before sending emails. Proof of consent must be kept for three years for email advertisements following the last email.
+Both acts require email marketers to obtain prior consent (opt-in) from recipients before sending marketing emails, with limited exceptions such as an ongoing business relationship. Under the ASCT, proof of consent must be kept for three years following the last email. Under the Anti-Spam Act, consent records must be kept while sending continues and for at least one month after the last message.
 
 ## Notable exceptions or requirements
-There is no clear time period for which opt-out or unsubscribe requests must be honoured. However, the legislation does stipulate that no other emails can be sent once the recipient has opted out.
+There is no clear time period for which opt-out or unsubscribe requests must be honoured. However, the legislation does stipulate that no other emails can be sent once the recipient has opted out. Sending to randomly generated addresses is prohibited.
 
 ## Penalties
-For violating email regulations, Japan imposes a fine of up to 1 million JPY or 1 year of imprisonment with labour.
+For individuals, violations carry a fine of up to 1 million JPY or 1 year of imprisonment with labour. Corporations can be fined up to 30 million JPY under the Anti-Spam Act where an officer or employee commits the violation.
 
 ## Additional reading
-- [The Quirks of Japan's Opt-In Email Marketing Legislation](https://www.benchmarkemail.com/blog/the-quirks-of-japans-opt-in-email-marketing-legislation/)
+- [Overview of Japanese anti-spam law (DEKYO)](https://www.dekyo.or.jp/soudan/contents/antispam/data/en/EN_Overview_of_Japanese_Anti-Spam_Law.pdf)
 - [Electronic Marketing: Japan](https://www.dlapiperdataprotection.com/index.html?t=electronic-marketing&c=JP)
