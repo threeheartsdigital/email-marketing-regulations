@@ -1,5 +1,5 @@
 # Australia
-Australia's Spam Act 2003 prohibits the sending of unsolicited commercial electronic messages. The legislation covers all messages originating from Australia and all messages accessed in Australia.
+Australia's Spam Act 2003 prohibits the sending of unsolicited commercial electronic messages. A message has an Australian link if it originates or was commissioned in Australia, or if it originates overseas and is sent to an address accessed in Australia.
 
 ## Required content
 All emails must include contact information and clear identification of the sender. They must also include a functional unsubscribe facility, and the functionality must work for at least 30 days after the original message was sent. All requests must be honoured within 5 working days. The ACMA has made clear that an unsubscribe facility must not require the recipient to log in to an account.
@@ -22,4 +22,4 @@ Enforcement is active: Commonwealth Bank paid 7.5 million AUD in 2024, Tabcorp 4
 
 ## Additional reading
 - [ACMA: Avoid sending spam](https://www.acma.gov.au/avoid-sending-spam)
-- [Spam Act 2003: Section 25](https://classic.austlii.edu.au/au/legis/cth/consol_act/sa200366/s25.html)
+- [Spam Act 2003: Section 25](https://www.legislation.gov.au/C2004A01214/latest/text)

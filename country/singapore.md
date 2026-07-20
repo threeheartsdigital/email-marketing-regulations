@@ -10,7 +10,9 @@ Singapore's advertising industry code (the Singapore Code of Advertising Practic
 - Include "&lt;ADV&gt;" in the email subject line
 
 ## Consent
-Under the PDPA, subscribers must provide consent before they can receive emails. Consent doesn't need to take any particular form, but you should keep records that demonstrate it. Consent can be express or deemed in some circumstances.
+Under the PDPA, organisations generally need consent before using an individual's personal data for direct marketing, subject to statutory exceptions. Consent does not need to take a particular form, but organisations should keep records that demonstrate it. The PDPA generally excludes business contact information, such as a business email address used for business purposes, from its data-protection rules. Deemed consent by notification cannot be used for direct marketing, although other forms of deemed consent may apply where their statutory tests are met.
+
+The Spam Control Act itself does not require prior consent. Instead, its labelling, sender-information and unsubscribe rules apply when unsolicited commercial email is sent in bulk.
 
 ## Notable exceptions or requirements
 The PDPA requires email marketers to have policies in place to comply with these regulations and inform other members of staff. There must also be a method to receive complaints about the handling of personal data.

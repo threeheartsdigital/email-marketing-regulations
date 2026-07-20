@@ -1,8 +1,8 @@
 # Canada
-Canada's Anti-Spam Legislation (CASL) regulates email marketing in Canada, and has been in effect since July 1 2014. Wherever you are in the world, if you send email marketing messages to Canadian residents, you will need to comply with CASL.
+Canada's Anti-Spam Legislation (CASL) regulates email marketing in Canada, and has been in effect since July 1 2014. CASL generally applies when a computer system located in Canada is used to send or access a commercial electronic message. This captures messages sent into Canada from abroad and, subject to limited exceptions, messages sent from Canada to other countries; recipient citizenship or residence is not the statutory test.
 
 ## Content required
-All emails sent to Canadian recipients must contain the following:
+Commercial electronic messages covered by CASL must contain the following:
 - Your name, the person on whose behalf you are sending (if acting as an affiliate), your physical mailing address, and at least one of: a telephone number, email address or website URL.
 - An unsubscribe link, which is simple, quick, and easy to action. It should not require a log-in to action, and must remain functional for at least 60 days after the message is sent. Unsubscribe requests must be honoured without delay, and within 10 business days at the latest.
 

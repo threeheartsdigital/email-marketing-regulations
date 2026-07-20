@@ -14,7 +14,7 @@ Ireland has a soft opt-in with an unusual time limit: you may email an existing 
 
 Business email addresses are treated differently: an address that reasonably appears to be used mainly in the context of someone's commercial or official activity can be emailed on an opt-out basis, as long as the message relates solely to that activity.
 
-As Ireland follows GDPR, some companies (for example, those processing personal data on a large scale) must appoint a data protection officer, who is in charge of maintaining and enforcing data protection standards.
+As Ireland follows GDPR, organisations must appoint a data protection officer in certain circumstances. These include public authorities and organisations whose core activities involve large-scale regular and systematic monitoring or large-scale processing of special-category or criminal-offence data. The officer advises and monitors compliance, while the organisation remains responsible for meeting its data-protection obligations.
 
 ## Penalties
 The maximum fine available under the GDPR is up to 20 million EUR, or 4% annual global turnover – whichever is higher.

@@ -12,7 +12,7 @@ This can be either by having a double opt-in or by checking an explicit checkbox
 ## Notable exceptions or requirements
 There is a soft opt-in for existing customers: you may market your own products or services to them, provided a free opt-out was offered at sign-up and is included in every message. General corporate email addresses (such as info@) may be used for B2B marketing.
 
-As Iceland follows GDPR, some companies (for example, those processing personal data on a large scale) must appoint a data protection officer, who is in charge of maintaining and enforcing data protection standards.
+As Iceland applies GDPR through the EEA, organisations must appoint a data protection officer in certain circumstances. These include public authorities and organisations whose core activities involve large-scale regular and systematic monitoring or large-scale processing of special-category or criminal-offence data. The officer advises and monitors compliance, while the organisation remains responsible for meeting its data-protection obligations.
 
 ## Penalties
 For breaches of the email marketing rules, Fjarskiptastofa can impose administrative fines of up to 4% of a company's total turnover for the preceding financial year (10,000 to 10 million ISK for individuals). Under the Data Protection Act, fines range from 100,000 ISK up to 2.4 billion ISK or 4% of annual global turnover for serious violations.
