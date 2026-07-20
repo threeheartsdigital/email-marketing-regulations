@@ -15,6 +15,5 @@ State privacy obligations vary on a state-by-state basis. These laws generally p
 ## Penalties
 The CAN-SPAM Act is enforced primarily by the Federal Trade Commission (FTC), which can seek civil penalties of up to 53,088 USD per violation (with no maximum penalty). This figure is adjusted for inflation and has applied since January 2025 – there was no 2026 adjustment. In certain circumstances the CAN-SPAM Act may also be enforced by other federal regulators (such as the Federal Communications Commission) for the entities they oversee, by state attorneys general, and through civil actions brought by Internet access service providers. There is no private right of action for individual recipients.
 
-
 ## Additional reading
 - [FTC.gov: CAN-SPAM Act: A Compliance Guide for Business](https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business)

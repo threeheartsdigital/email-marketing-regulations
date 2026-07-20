@@ -8,7 +8,7 @@ The RES requires email marketers to make sure recipients are aware they are rece
 The RES requires prior express consent before marketing emails can be sent, however the opt-in methods are not specified. The PIPL adds that consent must be informed, voluntary and withdrawable, with an easy way to withdraw it.
 
 ## Notable exceptions or requirements
-Recipients must be able to opt-out from receiving emails, and opt-outs must be honoured.
+Recipients must be able to opt out from receiving emails, and opt-outs must be honoured.
 
 ## Penalties
 Violations of the RES are subject to fines of up to 10,000 CNY, rising to up to 30,000 CNY where there are illegal gains. The penalties are enforced through a report-based system, where consumers file an official complaint about illegal email activity.
