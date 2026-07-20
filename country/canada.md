@@ -1,5 +1,5 @@
 # Canada
-The Canadian Anti-Spam Law (CASL) regulates email marketing in Canada, and has been in effect since July 1 2014.  Wherever you are in the world, if you send email marketing messages to Canadian residents, you will need to comply with CASL.
+Canada's Anti-Spam Legislation (CASL) regulates email marketing in Canada, and has been in effect since July 1 2014. Wherever you are in the world, if you send email marketing messages to Canadian residents, you will need to comply with CASL.
 
 ## Content required
 All emails sent to Canadian recipients must contain the following:
@@ -28,14 +28,14 @@ Express consent is only valid if the following information is included with your
 If you are collecting an email address as part of a sign-up or purchase flow, then you cannot use pre-checked checkboxes to get express consent. Consent must be freely given.
 
 ## Notable exceptions or requirements
-
+The burden of proving consent rests with the sender, so keep records of when and how each subscriber gave their consent.
 
 ## Penalties
 The penalties under CASL can be quite severe. They include:
 
 - Administrative Monetary Penalties (AMPs) consisting of fines of up to 1 million CAD for individuals and up to 10 million CAD for corporations per violation.
-- Vicarious liability. This means that corporate directors can be found to be liable for the wrongful acts of a corporation or organization, and the corporation can be found to be liable for the wrongful acts of its employees.
-- Private rights of action. This means that after July 1 2017 individuals can sue another individual or organization for damages after proving actual harm or loss after receiving an unsolicited and unwanted commercial electronic message (CEM). An individual cannot sue an organization if the Canadian Radio-television and Telecommunications Commission (CRTC) has already taken action against it.
+- Vicarious liability. This means that corporate directors can be found to be liable for the wrongful acts of a corporation or organisation, and the corporation can be found to be liable for the wrongful acts of its employees.
+- Private rights of action. CASL contains a private right of action that would let individuals sue for damages after receiving an unsolicited commercial electronic message (CEM). It was due to come into force on July 1 2017, but was suspended indefinitely by the government and has never taken effect.
 
 ## Additional reading
 - [Frequently Asked Questions about Canada's Anti-Spam Legislation](https://crtc.gc.ca/eng/com500/faq500.htm)

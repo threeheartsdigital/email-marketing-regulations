@@ -24,7 +24,7 @@ Consent should be collected through a double opt-in registration as you must sto
 In November 2025, the European Court of Justice confirmed that the existing-customer soft opt-in can also apply where the email address was obtained when signing up for a free service that starts a customer relationship.
 
 ## Notable exceptions or requirements
-Germany requires that companies have a data security officer. The person is in charge of maintaining and enforcing data security standards.
+As Germany follows GDPR, some companies (for example, those processing personal data on a large scale) must appoint a data protection officer, who is in charge of maintaining and enforcing data protection standards.
 
 ## Penalties
 The maximum fine available under the GDPR is up to 20 million EUR, or 4% annual global turnover – whichever is higher. Under the DDG, concealing the commercial nature or sender of a commercial email can be fined up to 300,000 EUR, and a missing or incomplete legal notice up to 50,000 EUR. Breaches of the UWG's spam rules are typically enforced through cease-and-desist injunctions and damages.

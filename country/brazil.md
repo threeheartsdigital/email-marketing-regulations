@@ -2,7 +2,7 @@
 A legislation called Lei Geral de Proteção de Dados Pessoais (LGPD) took effect in September 2020, with penalties becoming enforceable from August 2021. The LGPD is made up of 65 articles. Articles 17-22 deal with the rights of data subjects, those whose data is collected and/or processed, so mainly individuals or natural persons. It has 10 legal bases for the processing of personal data, four more than the GDPR. The national data protection authority (ANPD) is now actively enforcing the law, having issued its first fines in 2023.
 
 ## Content required
-All emails should include name and contact information. Emails should also include a clear unsubscribe/opt-out option. There's no clear mention of the time period necessary to process an unsubcribe.
+All emails should include name and contact information. Emails should also include a clear unsubscribe/opt-out option. There's no clear mention of the time period necessary to process an unsubscribe.
 
 ## Consent
 The sending of unsolicited communications must be done based on one of the two legal grounds for processing: consent, and controller's legitimate interest.
