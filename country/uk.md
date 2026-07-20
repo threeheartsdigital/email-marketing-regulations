@@ -1,7 +1,7 @@
 # United Kingdom
 Email marketing in the UK is governed by the UK GDPR (the UK's post-Brexit implementation of the EU's General Data Protection Regulation), the Data Protection Act 2018 and the Privacy and Electronic Communications Regulations (PECR). The UK GDPR and DPA 2018 govern the data, such as email addresses or first names, which you use for email marketing, while PECR defines the permissions needed to send email marketing communications.
 
-All three were significantly amended by the Data (Use and Access) Act 2025 (DUAA), which received royal assent on 19 June 2025. Its key changes for email marketers took effect on 5 February 2026: PECR fines were raised from 500,000 GBP to UK GDPR levels, and a new soft opt-in for charities was introduced.
+All three were significantly amended by the Data (Use and Access) Act 2025 (DUAA), which received Royal Assent on 19 June 2025. Its key changes for email marketers took effect on 5 February 2026: PECR fines were raised from 500,000 GBP to UK GDPR levels, and a new soft opt-in for charities was introduced.
 
 ## Content required
 You must not disguise or conceal your identity, and every email must include a valid contact address the recipient can use to opt out. (Companies must separately include a geographic address in commercial emails under the E-Commerce Regulations 2002.) If you are sending a promotion, the E-Commerce Regulations also require you to make it clear that it is a promotion and what the conditions attached are.

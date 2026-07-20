@@ -2,10 +2,10 @@
 Australia's Spam Act 2003 prohibits the sending of unsolicited commercial electronic messages. A message has an Australian link if it originates or was commissioned in Australia, or if it originates overseas and is sent to an address accessed in Australia.
 
 ## Required content
-All emails must include contact information and clear identification of the sender. They must also include a functional unsubscribe facility, and the functionality must work for at least 30 days after the original message was sent. All requests must be honoured within 5 working days. The ACMA has made clear that an unsubscribe facility must not require the recipient to log in to an account.
+Commercial electronic messages covered by the Act must include contact information and clear identification of the sender. They must also include a functional unsubscribe facility, and the functionality must work for at least 30 days after the original message was sent. All requests must be honoured within 5 working days. The ACMA has made clear that an unsubscribe facility must not require the recipient to log in to an account.
 
 ## Consent
-Emails can only be sent if the account holder (for example, the person who owns the email) has given permission. Permission can be given directly or, in limited circumstances, through implied consent.
+Commercial electronic messages covered by the Act can only be sent if the account holder (for example, the person who owns the email) has given permission. Permission can be given directly or, in limited circumstances, through inferred consent.
 
 - Express permission: when an individual agrees to receive your marketing. For example, a person may sign up to your mailing list.
 - Inferred permission: you may be able to infer permission from an individual's conduct, business or other relationships. This is a broad definition but an example would be sending a message advertising your employment agency to the recruitment manager at a business, if their email has been published online (and you didn't scrape it!).

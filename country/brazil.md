@@ -1,5 +1,5 @@
 # Brazil
-A legislation called Lei Geral de Proteção de Dados Pessoais (LGPD) took effect in September 2020, with penalties becoming enforceable from August 2021. The LGPD is made up of 65 articles. Articles 17-22 deal with the rights of data subjects, those whose data is collected and/or processed, so mainly individuals or natural persons. It has 10 legal bases for the processing of personal data, four more than the GDPR. The national data protection authority (ANPD) is now actively enforcing the law, having issued its first fines in 2023.
+Brazil's Lei Geral de Proteção de Dados Pessoais (LGPD) took effect in September 2020, with penalties becoming enforceable from August 2021. The LGPD is made up of 65 articles. Articles 17-22 deal with the rights of data subjects, those whose data is collected and/or processed, so mainly individuals or natural persons. It has 10 legal bases for the processing of personal data, four more than the GDPR. The national data protection authority (ANPD) is now actively enforcing the law, having issued its first fines in 2023.
 
 ## Content required
 No Brazilian statute prescribes the content of marketing emails, but the LGPD's transparency principles mean emails should identify the sender, and a clear unsubscribe/opt-out option is expected. There's no defined time period for processing an unsubscribe.

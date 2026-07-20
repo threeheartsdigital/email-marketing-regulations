@@ -1,5 +1,5 @@
 # Email marketing regulations around the world (updated for 2026)
-Email marketing law doesn't stop at your own border. Wherever your subscribers live, their local regulations apply to the emails you send them – and the rules keep changing, from Europe's GDPR (General Data Protection Regulation) to the UK's Data (Use and Access) Act 2025 and India's Digital Personal Data Protection Act.
+Email marketing law doesn't stop at your own border. Depending on where you and your subscribers are located – and where messages are sent, accessed or processed – more than one country's rules may apply. Those rules keep changing, from Europe's GDPR (General Data Protection Regulation) to the UK's Data (Use and Access) Act 2025 and India's Digital Personal Data Protection Act.
 
 The team at [EmailOctopus](https://emailoctopus.com/?utm_source=github) have compiled this guide to make things easier. Our aim is to create a space where the email marketing community can keep each other up-to-date about regulations around the world, so it's easier for us all to be aware of new legislation, as and when it's implemented.
 
