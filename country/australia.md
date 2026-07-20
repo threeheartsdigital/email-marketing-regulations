@@ -22,4 +22,4 @@ Enforcement is active: Commonwealth Bank paid 7.5 million AUD in 2024, Tabcorp 4
 
 ## Additional reading
 - [ACMA: Avoid sending spam](https://www.acma.gov.au/avoid-sending-spam)
-- [Spam Act 2003: Section 25](https://www.legislation.gov.au/C2004A01214/latest/text)
+- [Spam Act 2003 (Federal Register of Legislation)](https://www.legislation.gov.au/C2004A01214/latest/text)
