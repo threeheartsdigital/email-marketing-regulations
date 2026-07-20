@@ -3,6 +3,8 @@ Email marketing law doesn't stop at your own border. Wherever your subscribers l
 
 The team at [EmailOctopus](https://emailoctopus.com/?utm_source=github) have compiled this guide to make things easier. Our aim is to create a space where the email marketing community can keep each other up-to-date about regulations around the world, so it's easier for us all to be aware of new legislation, as and when it's implemented.
 
+_This guide is for general information only and isn't legal advice – see [the note below](#a-note-on-accuracy)._
+
 ## At a glance
 For more detail about a country's legislation, click the country name.
 
@@ -46,5 +48,5 @@ The best example is during online shopping. Imagine a customer has just bought a
 
 The exact boundaries for both types of consent are defined in the specific country laws.
 
-## Note
-This guide is a community resource which is open to edits from members of the public. Information may be inaccurate and shouldn't be taken as legal advice – always consult a local lawyer before carrying out email marketing in any region.
+## A note on accuracy
+This guide is a community resource, open to edits from members of the public, and is provided for general information only. It isn't legal advice, and EmailOctopus and its contributors accept no liability for decisions made based on it. Laws and penalty amounts change frequently, and information may be inaccurate or out of date – always consult a local lawyer before carrying out email marketing in any region.
