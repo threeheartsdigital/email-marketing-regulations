@@ -12,7 +12,7 @@ Email is also allowed if the recipient has not specifically opted out and if you
 Businesses (legal persons) may be emailed without prior consent, unless they have prohibited it. This is aimed at organisational addresses – emailing a named employee's work address generally still needs consent, unless the offer clearly relates to their role.
 
 ## Notable exceptions or requirements
-As Finland follows GDPR, organisations must appoint a data protection officer in certain circumstances. These include public authorities and organisations whose core activities involve large-scale regular and systematic monitoring or large-scale processing of special-category or criminal-offence data. The officer advises and monitors compliance, while the organisation remains responsible for meeting its data-protection obligations.
+As Finland follows GDPR, some organisations (public authorities, or those doing large-scale monitoring or large-scale processing of sensitive data) must appoint a data protection officer.
 
 ## Penalties
 The maximum fine available under the GDPR is up to 20 million EUR, or 4% annual global turnover – whichever is higher. The Office of the Data Protection Ombudsman enforces the direct marketing rules and has fined companies for email marketing without consent.

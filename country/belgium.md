@@ -12,7 +12,7 @@ This can be either by having a double opt-in or by checking an explicit checkbox
 ## Notable exceptions or requirements
 The Royal Decree of 4 April 2003 allows two exceptions to the opt-in rule: a soft opt-in for existing customers (where the details were obtained during a sale and you are marketing your own similar products or services, with an opt-out offered), and emails to impersonal corporate addresses of legal persons (such as info@company.be).
 
-As Belgium follows GDPR, organisations must appoint a data protection officer in certain circumstances. These include public authorities and organisations whose core activities involve large-scale regular and systematic monitoring or large-scale processing of special-category or criminal-offence data. The officer advises and monitors compliance, while the organisation remains responsible for meeting its data-protection obligations.
+As Belgium follows GDPR, some organisations (public authorities, or those doing large-scale monitoring or large-scale processing of sensitive data) must appoint a data protection officer.
 
 ## Penalties
 Infringements of the Code of Economic Law carry criminal fines, decided on a case-by-case basis.

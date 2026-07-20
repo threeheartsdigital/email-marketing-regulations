@@ -12,7 +12,7 @@ This can be either by having a double opt-in or by checking an explicit checkbox
 ## Notable exceptions or requirements
 There is an existing-customer exception (soft opt-in): if you obtained the email address during a sale, you may market your own similar products, provided an opt-out was offered when the details were collected and in every message since.
 
-As Denmark follows GDPR, organisations must appoint a data protection officer in certain circumstances. These include public authorities and organisations whose core activities involve large-scale regular and systematic monitoring or large-scale processing of special-category or criminal-offence data. The officer advises and monitors compliance, while the organisation remains responsible for meeting its data-protection obligations.
+As Denmark follows GDPR, some organisations (public authorities, or those doing large-scale monitoring or large-scale processing of sensitive data) must appoint a data protection officer.
 
 ## Penalties
 Spam fines follow a tiered model in force since 2022: 20,000 DKK for up to 30 messages (also the minimum fine – a single spam email has attracted a 20,000 DKK fine), 30,000 DKK for 31–50 messages, 50,000 DKK for 51–100 messages, and 50,000 DKK plus 200 DKK per message beyond 100. Repeat offences add 20%.
