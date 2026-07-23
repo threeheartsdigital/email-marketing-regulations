@@ -3,7 +3,7 @@ Email marketing law doesn't stop at your own border. Depending on where you and 
 
 The team at [EmailOctopus](https://emailoctopus.com/?utm_source=github) have compiled this guide to make things easier. Our aim is to create a space where the email marketing community can keep each other up-to-date about regulations around the world, so it's easier for us all to be aware of new legislation, as and when it's implemented.
 
-_This guide is for general information only and isn't legal advice – see [the note below](#a-note-on-accuracy)._
+_This guide is for general information only and isn't legal advice.
 
 ## At a glance
 For more detail about a country's legislation, click the country name.
