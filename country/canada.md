@@ -1,10 +1,10 @@
 # Canada
-The Canadian Anti-Spam Law (CASL) regulates email marketing in Canada, and has been in effect since July 1 2014.  Wherever you are in the world, if you send email marketing messages to Canadian residents, you will need to comply with CASL.
+Canada's Anti-Spam Legislation (CASL) regulates email marketing in Canada, and has been in effect since July 1 2014. CASL generally applies when a computer system located in Canada is used to send or access a commercial electronic message. This captures messages sent into Canada from abroad and, subject to limited exceptions, messages sent from Canada to other countries; recipient citizenship or residence is not the statutory test.
 
 ## Content required
-All emails sent to Canadian recipients must contain the following:
-- Your name, the person on whose behalf you are sending (if acting as an affiliate), your physical mailing address and contact information (email address, telephone number and URL).
-- An unsubscribe link, which is simple, quick, and easy to action. It should not require a log-in to action.
+Commercial electronic messages covered by CASL must contain the following:
+- Your name, the person on whose behalf you are sending (if acting as an affiliate), your physical mailing address, and at least one of: a telephone number, email address or website URL.
+- An unsubscribe link, which is simple, quick, and easy to action. It should not require a log-in to action, and must remain functional for at least 60 days after the message is sent. Unsubscribe requests must be honoured without delay, and within 10 business days at the latest.
 
 ## Consent
 You must have consent to contact a subscriber. That consent can be either implied or express.
@@ -14,29 +14,28 @@ Implied consent applies when you have an existing business relationship with the
 - They have purchased a product/service from you within the last two years.
 - They have enquired about purchasing a product/service from you within the last six months.
 - You're a charity or political organisation/candidate and the receiver has sent a donation, or completed charity work, or they have attended a meeting within the past two years.
-- You're a club/association/voluntary organisation and the person you are contacting is a member.
+- You're a club/association/voluntary organisation and the person you are contacting has been a member within the past two years.
 
 ### Express consent
 Express consent means a written or oral agreement to receive specific types of messages. For example, "You want to receive monthly newsletters and weekly discount notifications from Company B."
 
 Express consent is only valid if the following information is included with your request for consent:
 - A clear and concise description of your purpose for obtaining consent.
-- A description of messages you'll be sending.
-- Requestor's name and contact information (physical mailing address and telephone number, email address or website URL).
+- Requestor's name (and on whose behalf consent is sought, if different) and contact information (physical mailing address and telephone number, email address or website URL).
 - A statement that the recipient may unsubscribe at any time.
 
 If you are collecting an email address as part of a sign-up or purchase flow, then you cannot use pre-checked checkboxes to get express consent. Consent must be freely given.
 
 ## Notable exceptions or requirements
-
+The burden of proving consent rests with the sender, so keep records of when and how each subscriber gave their consent.
 
 ## Penalties
 The penalties under CASL can be quite severe. They include:
 
 - Administrative Monetary Penalties (AMPs) consisting of fines of up to 1 million CAD for individuals and up to 10 million CAD for corporations per violation.
-- Vicarious liability. This means that corporate directors can be found to be liable for the wrongful acts of a corporation or organization, and the corporation can be found to be liable for the wrongful acts of its employees.
-- Private rights of action. This means that after July 1 2017 individuals can sue another individual or organization for damages after proving actual harm or loss after receiving an unsolicited and unwanted commercial electronic message (CEM). An individual cannot sue an organization if the Canadian Radio-television and Telecommunications Commission (CRTC) has already taken action against it.
+- Vicarious liability. This means that corporate directors can be found to be liable for the wrongful acts of a corporation or organisation, and the corporation can be found to be liable for the wrongful acts of its employees.
+- Private rights of action. CASL contains a private right of action that would let individuals sue for damages after receiving an unsolicited commercial electronic message (CEM). It was due to come into force on July 1 2017, but was suspended indefinitely by the government and has never taken effect.
 
 ## Additional reading
 - [Frequently Asked Questions about Canada's Anti-Spam Legislation](https://crtc.gc.ca/eng/com500/faq500.htm)
-- [Mailchimp's guide to the CASL](https://mailchimp.com/help/about-the-canada-anti-spam-law-casl/)
+- [Government of Canada: Canada's Anti-Spam Legislation](https://ised-isde.canada.ca/site/canada-anti-spam-legislation/en)

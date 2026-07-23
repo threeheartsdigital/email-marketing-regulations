@@ -1,21 +1,21 @@
 # South Africa
-South Africa has multiple regulations that relate to email marketing and spam. The Electronic Communications and Transactions Act (ECTA) 2002 was the first law to address unsolicited communication and opt-out requirements. Further regulations are stipulated in the Consumer Protections Act (CPA) 2008, and the Protection of Personal Information Act (PPIA) 2013.
+South Africa has multiple regulations that relate to email marketing and spam. The Electronic Communications and Transactions Act (ECTA) 2002 was the first law to address unsolicited communication and opt-out requirements. Further regulations are stipulated in the Consumer Protection Act (CPA) 2008, and the Protection of Personal Information Act (POPIA) 2013. The Information Regulator published a Guidance Note on Direct Marketing in December 2024, confirming that consent is the default for email marketing.
 
 ## Required content
-Section 45 of the Electronic Communications and Transactions Act requires all email campaigns to provide an opt-out or unsubscribe option to email recipients. There also needs to be a provision for recipients to request the source of how the sender obtained their personal contact details.
+Section 45 of the Electronic Communications and Transactions Act requires all email campaigns to provide an opt-out or unsubscribe option to email recipients. There also needs to be a provision for recipients to request the source of how the sender obtained their personal contact details. POPIA separately requires the sender's identity and a contact address to be included in every marketing communication.
 
 ## Consent
-The PPI Act prohibits sending emails without first obtaining consent from the subscriber. Consent can be given through the following methods:
+Section 69 of POPIA prohibits sending marketing emails without first obtaining consent from the subscriber, with a soft opt-in exception for existing customers:
 
-- Obtaining the email address in the context of a sale of a product or service
-- Providing the recipient a reasonable opportunity to object or deny to providing consent at the time information is collected or in each email communication
+- You may email an existing customer where their details were obtained in the context of a sale, you are marketing your own similar products or services, and you gave them the chance to object both at collection and in every message.
+- Otherwise, you may approach a person only once to ask for their consent, and that first message may only be a consent request, not a marketing pitch.
 
 ## Notable exceptions or requirements
-The opt-out requirement under Section 45 of the ECTA does not describe how the opt-out option must be made available.
+From 2026, the CPA Amendment Regulations create a national Opt-Out Registry administered by the National Consumer Commission. All direct marketers must register with the NCC and screen their databases against the registry at least monthly – marketing to consumers who have registered a block is prohibited. Consumer and marketer registration was scheduled to open in July 2026, with the registry expected to be fully operational later in the year.
 
 ## Penalties
-Violations of the ECT Act will incur a fine of up to 1 million ZAR or imprisonment for up to 1 year.
+POPIA carries administrative fines of up to 10 million ZAR, and serious offences can attract up to 10 years' imprisonment. The Information Regulator has begun enforcing against email marketers – it issued its first direct marketing enforcement notice in February 2024, followed by a 100,000 ZAR infringement notice when the company failed to comply. Violations of the ECT Act incur a fine (no amount is specified in the Act) or imprisonment for up to 12 months, and CPA contraventions can be fined up to the greater of 1 million ZAR or 10% of annual turnover.
 
 ## Additional reading
-- [Internet Service Providers' Association – South African Law](https://ispa.org.za/spam/south-african-law/)
-- [Direct marketing and spam via electronic communications: An analysis of the regulatory framework in South Africa](http://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S2225-71602014000200004)
+- [Information Regulator: Guidance Notes](https://inforegulator.org.za/guidance-notes/)
+- [Bowmans: South Africa's new opt-out registry for direct marketing](https://bowmanslaw.com/insights/south-africa-new-national-consumer-commission-opt-out-to-direct-marketing-registry/)

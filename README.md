@@ -1,50 +1,50 @@
-# Email marketing regulations around the world (updated for 2024)
-As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex. Whether or not you operate directly in different countries, it's good practice as an email marketer to know which laws and regulations apply to your subscribers, wherever they are in the world. In recent years, keeping on top of new legislation has been challenging – most notably in Europe, with the introduction of GDPR (General Data Protection Regulation).
+# Email marketing regulations around the world (2026)
+Email marketing law doesn't stop at your own border. Depending on where you and your subscribers are located – and where messages are sent, accessed or processed – more than one country's rules may apply. Those rules keep changing, from Europe's GDPR (General Data Protection Regulation) to the UK's Data (Use and Access) Act 2025 and India's Digital Personal Data Protection Act.
 
 The team at [EmailOctopus](https://emailoctopus.com/?utm_source=github) have compiled this guide to make things easier. Our aim is to create a space where the email marketing community can keep each other up-to-date about regulations around the world, so it's easier for us all to be aware of new legislation, as and when it's implemented.
+
+_This guide is for general information only and isn't legal advice – see [the note below](#a-note-on-accuracy)._
 
 ## At a glance
 For more detail about a country's legislation, click the country name.
 
-| Country| Legislation | Content required| Opt-out required| Consent required | Penalties|
-| ------------- | ------------- | ------------- | ------------- |-------------  | -------------|
-| [Australia](/country/australia.md) | Spam Act 2003 | Name, contact information| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to 1.8m AUD per day |
-| [Belgium](/country/belgium.md) | outre-Quiévrain law, GDPR | Name, mailing address, clear identification of the sender | Yes | Explicit consent | Up to 20 million EUR, or 4% annual global turnover – whichever is higher |
-| [Brazil](/country/brazil.md) | LGPD | Name, contact information | Yes | Implicit consent via soft opt-in where an existing commercial or social interest can be demonstrated (effectively legitimate interest) | 2 percent of the revenue from Brazil, up to 50 million BRL per infraction |
-| [Canada](/country/canada.md) | CASL | Name, mailing address, contact information| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to 10 million CAD per violation |
-| [China](/country/china.md) | Regulations on Internet Service | Name, email address | Yes | Explicit consent | 10,000 - 30,000 CNY per email |
-| [Denmark](/country/denmark.md) | Danish Marketing Practices Act, GDPR | Name, mailing address, clear identification of the sender | Yes | Explicit consent | Up to 20 million EUR, or 4% annual global turnover – whichever is higher for GDPR violation; Danish government will impose an additional fine which is to be decided by the governing body |
-| [Finland](/country/finland.md) | Electronic Communication Services Act, GDPR | Name, mailing address, clear identification of the sender| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to 20 million EUR, or 4% annual global turnover – whichever is higher |
-| [Germany](/country/germany.md) | Federal Data Protection Act, GDPR, Telemedia Act | Name, mailing address, clear identification of the sender| Yes| Implied consent if you have a previous business relationship. Otherwise, explicit | Up to 20 million EUR, or 4% annual global turnover – whichever is higher |
-| [Hong Kong](/country/hongkong.md) | The Unsolicited Electronic Messages Ordinance | Clear identification of the sender | Yes | Implied consent | Up to 1 million HKD and imprisonment for up to five years on conviction on indictment |
-| [Iceland](/country/iceland.md) | GDPR | Name, mailing address, clear identification of the sender | Yes | Explicit consent | Up to 20 million EUR, or 4% annual global turnover – whichever is higher for GDPR violation |
-| [India](/country/india.md) | None at present | None | No| Consent is not required | None |
-| [Ireland](/country/ireland.md) | Irish Data Protection Act 2018, GDPR | Name, mailing address, clear identification of the sender | Yes | Explicit consent | Up to 20 million EUR, or 4% annual global turnover – whichever is higher for GDPR violation; Irish government can also impose a fine up to 250,000 EUR per message sent by a company and an individual may be fined up to 50,000 EUR per message |
-| [Israel](/country/israel.md) | Communications Broadcasting Law | Name, mailing address, contact information | Yes | Explicit consent, otherwise the recipient has given its contact details when purchasing a service or product, or when negotiating such purchase (specified for general advertising which includes marketing emails) | Fine of up to 202,000 ILS |
-| [Japan](/country/japan.md) | ASCT, Anti-Spam Act | Name, mailing address | Yes | Implied consent if you have a previous business relationship, otherwise explicit consent required | Up to 1 million JPY or 1 year of imprisonment |
-| [Singapore](/country/singapore.md) | PDPA, Spam Control Act 2007 | Name, email address | Yes | Explicit consent, via a minimum of soft opt-in | 25 SGD per email, up to 1 million SGD |
-| [South Africa](/country/south-africa.md) | ECTA, CPA, PPIA | Name, email address | Yes | Minimum of implied consent | Fines (no limit) or up to 12 months imprisonment |
-| [United Arab Emirates](/country/uae.md) | RUEC | Name, mailing address | Yes | Implied consent | Fines of up to 10 million AED |
-| [United Kingdom](/country/uk.md) | UK GDPR, PECR, DPA 2018 | Name, mailing address| Yes| Explicit consent, via a minimum of soft opt-in | Up to 17.5 million GBP, or 4% annual global turnover – whichever is higher |
-| [USA](/country/usa.md) | CAN-SPAM | Name, mailing address, contact information| Yes| Prior consent is not required | Up to 51,744 USD per violation |
+| Country | Legislation | Content required | Opt-out required | Consent required | Penalties |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Australia](/country/australia.md) | Spam Act 2003 | Name, contact information | Yes | Express or limited inferred consent | Up to 3.64 million AUD per day |
+| [Belgium](/country/belgium.md) | Code of Economic Law (Book XII), GDPR | Clearly identifiable advertising and sender; electronic opt-out | Yes | Prior consent, with soft opt-in for existing customers and an exception for impersonal addresses of legal persons | Up to 20 million EUR, or 4% annual global turnover – whichever is higher for a serious GDPR violation; separate domestic penalties may apply |
+| [Brazil](/country/brazil.md) | LGPD | No prescribed email fields; transparent sender identification and an opt-out are expected | Yes | Consent or documented legitimate interest (no statutory soft opt-in) | 2% of the revenue from Brazil, up to 50 million BRL per infraction |
+| [Canada](/country/canada.md) | CASL | Name, mailing address, contact information | Yes | Express or limited implied consent, including qualifying existing relationships | Up to 10 million CAD per violation |
+| [China](/country/china.md) | Internet Email Services Measures, PIPL | Name, email address, "AD" in subject line | Yes | Prior express consent | Up to 30,000 CNY per violation; up to 50 million CNY or 5% of annual turnover under PIPL |
+| [Denmark](/country/denmark.md) | Danish Marketing Practices Act, GDPR | Recognisable marketing, clear sender identity and a valid opt-out address | Yes | Prior consent, with soft opt-in for existing customers | Tiered spam fines from 20,000 DKK; up to 20 million EUR, or 4% annual global turnover – whichever is higher for a serious GDPR violation |
+| [Finland](/country/finland.md) | Act on Electronic Communications Services, GDPR | Recognisable marketing, clear sender identity and a valid opt-out address | Yes | Prior consent or customer soft opt-in for natural persons; legal persons may be emailed on an opt-out basis | Up to 20 million EUR, or 4% annual global turnover – whichever is higher for a serious GDPR violation |
+| [Germany](/country/germany.md) | Act Against Unfair Competition (UWG), GDPR, German Digital Services Act (DDG) | Name, mailing address, clear identification of the sender | Yes | Prior consent, with a narrow soft opt-in for existing customers | Up to 20 million EUR, or 4% annual global turnover – whichever is higher for a serious GDPR violation |
+| [Hong Kong](/country/hongkong.md) | The Unsolicited Electronic Messages Ordinance, PDPO | Name and functional contact details, clear identification of the sender | Yes | Implied consent (opt-out regime), but PDPO requires consent where personal data is used | Up to 1 million HKD and 5 years' imprisonment for address harvesting; unlimited fines and up to 10 years' imprisonment for fraud offences |
+| [Iceland](/country/iceland.md) | Electronic Communications Act, GDPR | Name, mailing address, clear identification of the sender | Yes | Prior consent, with soft opt-in for existing customers | Up to 4% of annual turnover for spam breaches; up to 2.4 billion ISK or 4% of turnover for data protection violations |
+| [India](/country/india.md) | DPDP Act 2023 (substantive obligations from May 2027) | None at present | Not until May 2027 | Not required at present; consent-based from May 2027 | None at present; up to 250 crore INR under the DPDP Act from May 2027 |
+| [Ireland](/country/ireland.md) | Irish Data Protection Act 2018, GDPR, ePrivacy Regulations | Clear identification of the sender, valid opt-out address | Yes | Explicit consent, with soft opt-in for existing customers (12-month limit) | Up to 20 million EUR or 4% of turnover (GDPR); up to 5,000 EUR per email (summary) or 250,000 EUR (indictment) under ePrivacy |
+| [Israel](/country/israel.md) | Communications Law (Telecommunications and Broadcasting), Privacy Protection Law | Name, mailing address, contact information | Yes | Explicit written consent, with a narrow existing-customer exception | Fine of up to 226,000 ILS; administrative fines up to 5% of annual turnover under the Privacy Protection Law |
+| [Japan](/country/japan.md) | ASCT, Anti-Spam Act | Sender identity and address; opt-out statement and email address or URL; enquiry contact details | Yes | Implied consent if you have a previous business relationship, otherwise explicit consent required | Up to 1 million JPY or 1 year of imprisonment for individuals; up to 30 million JPY for corporations |
+| [Singapore](/country/singapore.md) | PDPA, Spam Control Act 2007 | For unsolicited bulk email: accurate sender information, functional contact details and "&lt;ADV&gt;" in the subject line | Yes | PDPA consent generally required (business contact info excluded); Spam Control Act allows compliant unsolicited bulk email | 25 SGD per email, up to 1 million SGD; PDPA fines up to 10% of annual Singapore turnover or 1 million SGD – whichever is higher |
+| [South Africa](/country/south-africa.md) | ECTA, CPA, POPIA | Name, email address | Yes | Prior consent, with soft opt-in for existing customers | Up to 10 million ZAR or 10 years' imprisonment under POPIA; CPA penalties up to the greater of 1 million ZAR or 10% of annual turnover |
+| [United Arab Emirates](/country/uae.md) | PDPL, Modern Technology-Based Trade Law, TDRA telecoms rules | Sender identification and a free opt-out in practice | Yes | Opt-in in practice: consumers must be able to choose whether to receive marketing | Up to 10 million AED under the telecoms framework (directed at licensees); PDPL penalties pending |
+| [United Kingdom](/country/uk.md) | UK GDPR, PECR, DPA 2018 (as amended by the Data (Use and Access) Act 2025) | Clear identification of the sender, valid contact address | Yes | Prior consent or a qualifying commercial or charitable-purposes soft opt-in | Up to 17.5 million GBP, or 4% annual global turnover – whichever is higher (now also the PECR maximum) |
+| [USA](/country/usa.md) | CAN-SPAM | Name, mailing address, contact information | Yes | Prior consent is not required under CAN-SPAM | Up to 53,088 USD per violation |
 
 ## Explicit vs implied consent and other key terms
 
-#### Explicit consent
-Explicit consent gives the individual or business the right to deal with personal data. Consent can be acquired in writing or verbally. Generally speaking you'll need to keep a record of consent collection.
+#### Express or explicit consent
+Consent is permission given by an individual for an organisation to send marketing or process personal data where the applicable law requires it. Depending on the law, consent may be written, oral or electronic, but it generally must be freely given, specific, informed and indicated by an unambiguous affirmative action. Keep a record showing who consented, when, how and what they were told.
 
-A typical example in email marketing is a website registration form. Some legislations will require that you include a check-box to allow customers to consent to receiving your newsletter.
+A typical example in email marketing is a website registration form with a clear, unticked checkbox allowing a person to agree to receive a newsletter.
 
-- **_Soft opt-in_**: When you've collected an email address as part of another process, such as a purchase flow, and can reasonably assume the customer will be happy to receive further communications. However, you must have given them a clear chance to opt out – both when you first collected their details, and in every future message you send.
-- **_Single opt-in_**: A one step opt-in, so only a registration form is filled out.
+- **_Soft opt-in_**: A narrow statutory exception to prior consent, not a form of explicit consent. A typical version applies when you obtained contact details directly during a sale, market only your own similar products or services, and offered a free, easy opt-out both when collecting the details and in every later message. Exact conditions and special variants differ by country.
+- **_Single opt-in_**: A one-step opt-in, so only a registration form is filled out.
 - **_Double opt-in_**: A multi-step opt-in, so the registration is confirmed via a link sent to the acquired email address.
 
 #### Implied consent
-Implied consent, also known as inferred consent, is usually derived from actions and circumstances, often a previous purchase or enquiry.
-
-The best example is during online shopping. Imagine a customer has just bought a games console from your online store. You may assume that the client is interested in games and wish to contact them after their initial purchase with other similar products. If you haven't specifically asked to contact this user again (via a checkbox or similar), this is called implied consent.
+Implied consent, also known as inferred consent, is derived from conduct, a qualifying relationship or another circumstance expressly recognised by the applicable law. A previous purchase or enquiry may be relevant, but it does not automatically authorise marketing: many soft opt-in rules also require an opt-out when the address is first collected and limit marketing to the sender's own similar products or services.
 
 The exact boundaries for both types of consent are defined in the specific country laws.
 
-## Note
-This guide is a community resource which is open to edits from members of the public. Information may be inaccurate and shouldn't be taken as legal advice – always consult a local lawyer before carrying out email marketing in any region.
+## A note on accuracy
+This guide is a community resource, open to edits from members of the public, and is provided for general information only. It isn't legal advice, and EmailOctopus and its contributors accept no liability for decisions made based on it. Laws and penalty amounts change frequently, and information may be inaccurate or out of date – always consult a local lawyer before carrying out email marketing in any region.
